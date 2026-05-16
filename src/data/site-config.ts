@@ -17,11 +17,11 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Projectos',
             href: '/projects'
         },
         {
@@ -74,7 +74,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Contacto',
                 href: '/contact'
             }
         ]
