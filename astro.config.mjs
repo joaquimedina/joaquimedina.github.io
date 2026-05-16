@@ -4,11 +4,10 @@ import tailwindcss from '@tailwindcss/vite';
 import { defineConfig } from 'astro/config';
 import siteConfig from './src/data/site-config';
 
-// https://astro.build/config
+https://joaquimedina.github.io
 export default defineConfig({
-    site: 'https://joaquimedina.github.io',
+    site: siteConfig.website,
     vite: {
         plugins: [tailwindcss()]
     },
     integrations: [mdx(), sitemap()]
-});
