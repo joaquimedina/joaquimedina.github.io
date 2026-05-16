@@ -9,8 +9,8 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Joaquín Medina',
-    subtitle: 'Psicología · Envejecimiento · Salud Mental · Arteterapia',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    subtitle: 'Psicología · Envejecimiento Saludable · Arteterapia',
+    description: 'Portfolio Joaquín Medina, psicología y arteterapia',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hola',
+        title: 'Bienvenidos a un *Spatium* de crecimiento personal',
         text: "Hola soy **Joaquín Medina**. Psicólogo especializado en envejecimiento, salud mental y arteterapia.\nTrabajo en la intersección entre salud mental y arteterapia utilizando la producción audiovisual como una herramienta motivacional proovedora de un feedback objetivo y constante.",
         image: {
             src: hero,
