@@ -1,66 +1,64 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Campo de Desconcentración Polivalente'
+description: Proyecto de intervención sociocultural y dinamización comunitaria desarrollado en Alcóntar mediante prácticas artísticas participativas, producción audiovisual y actividades de integración social.
+publishDate: 'Oct 15 2011'
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
-    alt: Project preview
+    src: '../../assets/images/alcontar.jpg'
+    alt: Campo de Desconcentración Polivalente
 ---
 
-![Project preview](../../assets/images/project-1.jpg)
+![Campo de Desconcentración Polivalente](../../assets/images/alcontar.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Campo de Desconcentración Polivalente · Alcóntar
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Proyecto de intervención sociocultural desarrollado en el municipio de Alcóntar (Almería), orientado a la activación comunitaria y la integración social mediante prácticas artísticas contemporáneas, convivencia rural y producción audiovisual participativa.
 
-## Objectives
+La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un espacio de creación colectiva donde las artes escénicas, la acción cultural y la experimentación audiovisual funcionaron como herramientas de cohesión social, participación comunitaria y transformación del espacio cotidiano.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
+  <iframe
+    src="https://player.vimeo.com/video/28155597"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
 
-## Features
+## Objetivos del proyecto
 
-1. **EcoScore and Challenges:**
+- Favorecer la participación social y cultural en entornos rurales.
+- Utilizar las artes como herramienta de integración y encuentro comunitario.
+- Generar espacios de convivencia intergeneracional.
+- Promover la expresión creativa colectiva mediante prácticas audiovisuales y escénicas.
+- Reforzar el vínculo entre territorio, identidad y comunidad.
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+## Metodología de intervención
 
-2. **Personalized Eco-Goals:**
+El proyecto se desarrolló desde una metodología participativa y comunitaria basada en:
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+- Talleres artísticos y performativos.
+- Actividades de intervención en espacio público.
+- Dinámicas grupales colaborativas.
+- Producción audiovisual comunitaria.
+- Procesos de creación colectiva abiertos a la población local.
 
-3. **Green Rewards Marketplace:**
+Las actividades combinaron elementos de arteterapia comunitaria, mediación cultural y experimentación artística contemporánea, adaptándose a las características sociales y culturales del entorno rural.
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+## Impacto psicosocial
 
-4. **Community Hub:**
+El proyecto contribuyó a generar espacios de interacción social, creatividad compartida y participación activa dentro de la comunidad local. Las actividades facilitaron procesos de expresión emocional, fortalecimiento del sentido de pertenencia y creación de vínculos sociales entre participantes de diferentes edades y perfiles.
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+Además, el uso de herramientas audiovisuales y escénicas permitió documentar la experiencia colectiva y favorecer nuevas formas de representación e identidad comunitaria.
 
-5. **EcoEducator AI Assistant:**
+## Ámbitos de trabajo
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+- Intervención psicosocial comunitaria
+- Arteterapia y artes escénicas
+- Dinamización cultural rural
+- Producción audiovisual participativa
+- Integración social y participación comunitaria
 
-## Technology Stack
-
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
-
-## Outcome
-
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Referencias
+https://campodedesconcentracionpolivalente.blogspot.com/
