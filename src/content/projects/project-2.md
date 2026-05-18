@@ -1,64 +1,64 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
-isFeatured: true
+title: 'Campo de Desconcentración Polivalente'
+description: Proyecto de intervención sociocultural y dinamización comunitaria desarrollado en Alcóntar mediante prácticas artísticas participativas, producción audiovisual y actividades de integración social.
+publishDate: 'Oct 15 2011'
 seo:
   image:
-    src: '../../assets/images/project-2.jpg'
-    alt: Project preview
+    src: '../../assets/images/alcontar.jpg'
+    alt: Campo de Desconcentración Polivalente
 ---
 
-![Project preview](../../assets/images/project-2.jpg)
+![Campo de Desconcentración Polivalente](../../assets/images/alcontar.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Campo de Desconcentración Polivalente · Alcóntar
 
-**Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
+Proyecto de intervención sociocultural desarrollado en el municipio de Alcóntar (Almería), orientado a la activación comunitaria y la integración social mediante prácticas artísticas contemporáneas, convivencia rural y producción audiovisual participativa.
 
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un espacio de creación colectiva donde las artes escénicas, la acción cultural y la experimentación audiovisual funcionaron como herramientas de cohesión social, participación comunitaria y transformación del espacio cotidiano.
 
-## Objectives
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
+  <iframe
+    src="https://player.vimeo.com/video/28155597"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+## Objetivos del proyecto
 
-## Features
+- Favorecer la participación social y cultural en entornos rurales.
+- Utilizar las artes como herramienta de integración y encuentro comunitario.
+- Generar espacios de convivencia intergeneracional.
+- Promover la expresión creativa colectiva mediante prácticas audiovisuales y escénicas.
+- Reforzar el vínculo entre territorio, identidad y comunidad.
 
-1. **Dynamic Destination Timelines:**
+## Metodología de intervención
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+El proyecto se desarrolló desde una metodología participativa y comunitaria basada en:
 
-2. **Interactive Historical Events:**
+- Talleres artísticos y performativos.
+- Actividades de intervención en espacio público.
+- Dinámicas grupales colaborativas.
+- Producción audiovisual comunitaria.
+- Procesos de creación colectiva abiertos a la población local.
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+Las actividades combinaron elementos de arteterapia comunitaria, mediación cultural y experimentación artística contemporánea, adaptándose a las características sociales y culturales del entorno rural.
 
-3. **Personalized Time Travel Planner:**
+## Impacto psicosocial
 
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
+El proyecto contribuyó a generar espacios de interacción social, creatividad compartida y participación activa dentro de la comunidad local. Las actividades facilitaron procesos de expresión emocional, fortalecimiento del sentido de pertenencia y creación de vínculos sociales entre participantes de diferentes edades y perfiles.
 
-4. **Time-Port Virtual Reality Experience:**
+Además, el uso de herramientas audiovisuales y escénicas permitió documentar la experiencia colectiva y favorecer nuevas formas de representación e identidad comunitaria.
 
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
+## Ámbitos de trabajo
 
-5. **Chronicle Explorer Blog:**
+- Intervención psicosocial comunitaria
+- Arteterapia y artes escénicas
+- Dinamización cultural rural
+- Producción audiovisual participativa
+- Integración social y participación comunitaria
 
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
-
-## Technology Stack
-
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
-
-## Outcome
-
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Referencias
+https://campodedesconcentracionpolivalente.blogspot.com/
