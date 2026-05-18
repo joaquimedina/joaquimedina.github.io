@@ -4,6 +4,7 @@ import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
     website: 'https://temsuo.github.io/joaquimedina.github.io/',
+    base: '/joaquimedina.github.io/',
     avatar: {
         src: avatar,
         alt: 'Ethan Donovan'
