@@ -62,5 +62,4 @@ Además, el uso de herramientas audiovisuales y escénicas permitió documentar 
 
 ## Referencias
 
-Reseña original del proyecto:
-https://ruralcontemporanea.blogspot.com/2011/10/campo-de-desconcentracion-polivalente.html
+https://campodedesconcentracionpolivalente.blogspot.com/
