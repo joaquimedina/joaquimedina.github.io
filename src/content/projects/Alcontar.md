@@ -1,7 +1,7 @@
 ---
 title: 'Campo de Desconcentración Polivalente'
 description: Proyecto de intervención sociocultural y dinamización comunitaria desarrollado en Alcóntar mediante prácticas artísticas participativas, producción audiovisual y actividades de integración social.
-publishDate: 'Oct 15 2011'
+publishDate: 'Oct 15 2012'
 seo:
   image:
     src: '../../assets/images/alcontar.jpg'
