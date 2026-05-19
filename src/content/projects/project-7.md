@@ -1,5 +1,5 @@
 ---
-title: 'Campo de Desconcentración Polivalente'
+title: 'Campo de Desconcentración Polivalente · Dinamización sociocultural'
 description: Proyecto de intervención sociocultural y dinamización comunitaria desarrollado en Alcóntar mediante prácticas artísticas participativas, producción audiovisual y actividades de integración social.
 publishDate: 'Jan 02 2024'
 isFeatured: true
@@ -9,13 +9,10 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../assets/images/project-7.jpg)
 
-## Campo de Desconcentración Polivalente · Alcóntar
+## Campo de Desconcentración Polivalente IV · Alcóntar
 
 Proyecto de intervención sociocultural desarrollado en el municipio de Alcóntar (Almería), orientado a la activación comunitaria y la integración social mediante prácticas artísticas contemporáneas, convivencia rural y producción audiovisual participativa.
-
-La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un espacio de creación colectiva donde las artes escénicas, la acción cultural y la experimentación audiovisual funcionaron como herramientas de cohesión social, participación comunitaria y transformación del espacio cotidiano.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
@@ -26,6 +23,8 @@ La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un 
     style="position: absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
+
+La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un espacio de creación colectiva donde las artes escénicas, la acción cultural y la experimentación audiovisual funcionaron como herramientas de cohesión social, participación comunitaria y transformación del espacio cotidiano.
 
 ## Objetivos del proyecto
 
