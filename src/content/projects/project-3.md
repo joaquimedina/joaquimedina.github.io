@@ -1,6 +1,6 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
+title: 'Moros y Cristianos · Archena'
+description: Producción audiovisual desarrollada para la Concejalía de Fiestas del Ayuntamiento de Archena con motivo de las fiestas tradicionales de Moros y Cristianos.
 publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:
@@ -10,55 +10,29 @@ seo:
 
 ![Project preview](../../assets/images/project-3.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Archena en fiestas: Moros y Cristianos · Producción Audiovisual
 
-**Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+Proyecto audiovisual realizado para la Concejalía de Fiestas del Ayuntamiento de Archena con el objetivo de promocionar las tradicionales fiestas de Moros y Cristianos, una celebración centenaria donde el municipio recrea mediante pasacalles, vestuario y representaciones populares episodios históricos.
 
-## Objectives
+El proyecto incluyó el desarrollo creativo, dirección, grabación y edición de la pieza audiovisual, trabajando en colaboración con comparsas, participantes y colectivos locales vinculados a la festividad.
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+La producción buscó reforzar el valor cultural y comunitario de las fiestas, destacando la participación ciudadana, el patrimonio cultural y la dimensión escénica y visual de la celebración.
 
-## Features
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
+  <iframe
+    src="https://player.vimeo.com/video/156975715"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
 
-1. **AI-Powered Recipe Recommendations:**
+## Ámbitos de trabajo
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
-
-2. **Ingredient Scanner and Inventory Management:**
-
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
-
-3. **Step-by-Step Cooking Guide:**
-
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
-
-4. **Nutritional Insights and Meal Planning:**
-
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
-
-5. **Voice-Activated Assistance:**
-
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
-
-## Technology Stack
-
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
-
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
-
-## Outcome
-
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- Producción audiovisual
+- Dirección creativa
+- Patrimonio cultural
+- Artes escénicas y representación popular
+- Dinamización comunitaria
+- Documentación audiovisual de eventos
