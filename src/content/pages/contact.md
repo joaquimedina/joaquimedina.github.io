@@ -1,8 +1,8 @@
 ---
-title: Get in touch
+title: Contacto
 seo:
-  title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  title: Contacto
+  description: Envíame un correo y vemos que podemos hacer
 ---
 
 Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:

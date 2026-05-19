@@ -36,11 +36,11 @@ const siteConfig: SiteConfig = {
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Términos',
             href: '/terms'
         }
         
