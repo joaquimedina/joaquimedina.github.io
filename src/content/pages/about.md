@@ -35,16 +35,3 @@ Posteriormente, el material audiovisual es editado en una pieza final que funcio
 - Discapacidad e inclusión social
 - Participación comunitaria
 
-A lo largo de mi trayectoria he desarrollado proyectos vinculados a la discapacidad, el envejecimiento saludable, la integración comunitaria y la dinamización cultural, colaborando con ayuntamientos, asociaciones culturales y otras entidades sociales.
-
-La producción audiovisual forma parte fundamental de mi metodología de trabajo, tanto como herramienta expresiva y artística como medio de participación, documentación e intervención social.
-
-## Áreas de interés
-
-- Intervención psicosocial
-- Arteterapia y artes escénicas
-- Envejecimiento saludable
-- Discapacidad e inclusión social
-- Producción audiovisual
-- Participación comunitaria
-- Salud mental
