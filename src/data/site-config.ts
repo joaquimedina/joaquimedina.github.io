@@ -56,12 +56,7 @@ const siteConfig: SiteConfig = {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
         },
-        actions: [
-            {
-                text: 'Contacto',
-                href: '/contact'
-            }
-        ]
+        
     },
     
     postsPerPage: 8,
