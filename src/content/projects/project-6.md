@@ -8,15 +8,10 @@ seo:
     src: '../../assets/images/project-6.jpg'
 ---
 
-![Project preview](../../assets/images/project-6.jpg)
 
 ## Boomerang · Proyecto de Inclusión Social y Producción Audiovisual
 
 Proyecto audiovisual desarrollado en colaboración con un parque infantil de Archena y un grupo de actores con discapacidad intelectual vinculados al Centro de Día Los Mazos.
-
-La propuesta surgió a partir de un proceso de formación en artes escénicas realizado durante mis prácticas profesionales, donde trabajé dinámicas de expresión corporal, interpretación y participación grupal con personas con síndrome de Down y otras discapacidades intelectuales.
-
-El proyecto culminó en la creación de una pieza audiovisual promocional protagonizada íntegramente por los participantes, integrando procesos creativos, representación artística y experiencias de inclusión social y laboral dentro de un entorno profesional real.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
@@ -27,6 +22,12 @@ El proyecto culminó en la creación de una pieza audiovisual promocional protag
     style="position: absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
+
+La propuesta surgió a partir de un proceso de formación en artes escénicas realizado durante mis prácticas profesionales, donde trabajé dinámicas de expresión corporal, interpretación y participación grupal con personas con síndrome de Down y otras discapacidades intelectuales.
+
+El proyecto culminó en la creación de una pieza audiovisual promocional protagonizada íntegramente por los participantes, integrando procesos creativos, representación artística y experiencias de inclusión social y laboral dentro de un entorno profesional real.
+
+
 
 ## Objetivos del proyecto
 
