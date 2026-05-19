@@ -7,7 +7,7 @@ seo:
 
 ## Información general
 
-Este sitio web tiene carácter informativo y profesional, y tiene como finalidad mostrar proyectos, trabajos audiovisuales y actividades relacionadas con la psicología, la intervención psicosocial, las artes escénicas y la producción audiovisual.
+Este sitio web es de carácter informativo y profesional, tiene como finalidad mostrar proyectos, trabajos audiovisuales y actividades relacionadas con la psicología, la intervención psicosocial, las artes escénicas y la producción audiovisual.
 
 El acceso y navegación por este sitio implica la aceptación de las presentes condiciones de uso.
 
