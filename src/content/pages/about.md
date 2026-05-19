@@ -11,9 +11,7 @@ seo:
 ![Alt text for image](../../assets/images/about.jpg)
 
 
-## Joaquín Medina - Mejorando la calidad de vida a través de las artes escénicas!
-
-Soy Joaquín Medina, psicólogo especializado en intervención psicosocial, arteterapia y desarrollo de proyectos comunitarios basados en las artes escénicas y la producción audiovisual.
+Soy Joaquín Medina, psicólogo especializado en envejecimiento saludable, intervención psicosocial, arteterapia y desarrollo de proyectos comunitarios basados en las artes escénicas y su producción audiovisual.
 
 Mi trabajo se centra en el diseño e implementación de programas orientados a mejorar el bienestar emocional, la participación social y la calidad de vida de las personas mediante procesos creativos y dinámicas grupales.
 
