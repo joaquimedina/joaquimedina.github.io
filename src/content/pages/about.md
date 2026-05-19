@@ -1,11 +1,11 @@
 ---
-title: About
+title: Sobre mí
 seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  title: Sobre mí
+  description: Conóceme un poquito mas.
   image:
     src: '../../assets/images/about.jpg'
-    alt: A person sitting at a desk in front of a computer
+    alt: A human being
 ---
 
 ![Alt text for image](../../assets/images/about.jpg)
