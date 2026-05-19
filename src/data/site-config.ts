@@ -50,7 +50,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Psicología y Artes Escénicas',
-        text: "Hola, soy Joaquín Medina, psicólogo especializado en intervención psicosocial, arteterapia y proyectos comunitarios basados en las artes escénicas y la creación audiovisual.\n Desarrollo programas orientados a mejorar el bienestar emocional, la participación social y la calidad de vida de adultos mayores y personas con discapacidad mediante procesos creativos, trabajo grupal y expresión artística \n _pincha sobre cada proyecto mas..._">
+        text: "Hola, soy Joaquín Medina, psicólogo especializado en intervención psicosocial, arteterapia y proyectos comunitarios basados en las artes escénicas y la creación audiovisual.\n Desarrollo programas orientados a mejorar el bienestar emocional, la participación social y la calidad de vida de adultos mayores y personas con discapacidad mediante procesos creativos, trabajo grupal y expresión artística.\n _pincha sobre cada proyecto mas..._">
 ",
         image: {
             src: hero,
