@@ -4,11 +4,11 @@ description: Proyecto de intervención sociocultural y dinamización comunitaria
 publishDate: 'Jan 02 2024'
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: '../../assets/images/project-7.jpg'
     alt: Project preview
 ---
 
-![Project preview](../../assets/images/project-1.jpg)
+![Project preview](../../assets/images/project-7.jpg)
 
 ## Campo de Desconcentración Polivalente · Alcóntar
 
