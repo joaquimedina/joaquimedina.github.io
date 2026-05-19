@@ -3,9 +3,11 @@ title: 'Moros y Cristianos · Archena'
 description: Producción audiovisual desarrollada para la Concejalía de Fiestas del Ayuntamiento de Archena con motivo de las fiestas tradicionales de Moros y Cristianos.
 publishDate: 'Oct 12 2023'
 isFeatured: true
+/*
 seo:
   image:
     src: '../../assets/images/project-3.jpg'
+*/    
 ---
 
 ![Project preview](../../assets/images/project-3.jpg)
