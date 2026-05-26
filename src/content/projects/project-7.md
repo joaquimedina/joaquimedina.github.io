@@ -1,16 +1,17 @@
 ---
 title: 'Campo de Desconcentración Polivalente · Integración intergeneracional'
-description: Proyecto de intervención sociocultural y dinamización comunitaria desarrollado en Alcóntar mediante prácticas artísticas participativas, producción audiovisual y actividades de integración social.
+description: Proyecto de arte comunitario y participación ciudadana desarrollado en colaboración con el Ayuntamiento de Alcóntar (Almería). Participé como realizador audiovisual, formador en talleres creativos para infancia, intérprete escénico junto a la compañía Vladimir Tzekov y colaborador en la organización y desarrollo de actividades comunitarias y performativas.
 publishDate: 'Jan 02 2024'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/alcontar1.jpg'
-    alt: Project preview
+    src: '../../assets/images/alcontar.jpg'
+    alt: 'Arte Comunitario, integracion social intergeneracional Alcóntar, Almería'
 ---
+##Arte comunitario, participación ciudadana y producción audiovisual
+![Project preview](../../assets/images/alcontar.jpg)
 
-![Project preview](../../assets/images/alcontar1.jpg)
-Proyecto de intervención sociocultural desarrollado en el municipio de Alcóntar (Almería), orientado a la activación comunitaria y la integración social mediante prácticas artísticas contemporáneas, convivencia rural y producción audiovisual participativa.
+Proyecto interdisciplinar de creación artística comunitaria desarrollado en colaboración con el Ayuntamiento de Alcóntar (Almería), orientado a fomentar la participación ciudadana, el intercambio cultural y la creación colectiva entre artistas, vecinos e instituciones locales. El proyecto transformó el municipio en un espacio de experimentación artística donde las propuestas se desarrollaban junto a la comunidad, integrando a habitantes de diferentes edades y perfiles en los procesos creativos.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
