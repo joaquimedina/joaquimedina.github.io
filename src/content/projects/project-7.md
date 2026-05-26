@@ -9,7 +9,7 @@ seo:
     alt: Project preview
 ---
 
-
+![Project preview](../../assets/images/project-7.jpg)
 Proyecto de intervención sociocultural desarrollado en el municipio de Alcóntar (Almería), orientado a la activación comunitaria y la integración social mediante prácticas artísticas contemporáneas, convivencia rural y producción audiovisual participativa.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
