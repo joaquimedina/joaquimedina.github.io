@@ -15,8 +15,11 @@ Proyecto interdisciplinar de creación artística comunitaria desarrollado en co
 
 ## Mi participación
 **Producción audiovisual**
+
 • Realización, grabación y edición de piezas audiovisuales documentales destinadas a registrar y difundir las actividades del proyecto.
+
 • Desarrollo de contenidos audiovisuales para comunicación y memoria del evento.
+
 • Documentación de procesos participativos y acciones artísticas realizadas durante el festival.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
