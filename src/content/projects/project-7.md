@@ -32,7 +32,16 @@ Proyecto interdisciplinar de creación artística comunitaria desarrollado en co
   </iframe>
 </div>
 
-La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un espacio de creación colectiva donde las artes escénicas, la acción cultural y la experimentación audiovisual funcionaron como herramientas de cohesión social, participación comunitaria y transformación del espacio cotidiano.
+**Formación y trabajo comunitario**
+
+• Diseño y desarrollo de talleres de creación audiovisual dirigidos a población infantil.
+Introducción al lenguaje audiovisual mediante metodologías participativas y aprendizaje basado en proyectos.
+
+• Fomento de la creatividad, la colaboración y la expresión artística a través de herramientas audiovisuales.
+
+• La iniciativa reunió a artistas, jóvenes y habitantes del entorno rural en un espacio de creación colectiva donde las artes escénicas, la acción cultural y la experimentación audiovisual funcionaron como herramientas de cohesión social, participación comunitaria y transformación del espacio cotidiano.
+
+
 
 ## Objetivos del proyecto
 
