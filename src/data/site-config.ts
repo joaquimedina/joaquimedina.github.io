@@ -54,7 +54,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Psicología y Artes Escénicas',
-        text: "Psicólogo especializado en intervención psicosocial, arteterapia y proyectos comunitarios basados en las artes escénicas y la creación audiovisual. \n\nDesarrollo programas orientados a mejorar el bienestar emocional, la participación social y la calidad de vida de adultos mayores y personas con discapacidad mediante procesos creativos, trabajo grupal y expresión artística.\n\n <span style='font-size:0.9rem;'>_Click sobre cada proyecto para ver los vídeos y saber más..._</span>",
+        text: "Psicólogo especializado en intervención psicosocial, arteterapia y proyectos comunitarios basados en las artes escénicas y la creación audiovisual. \n\nDesarrollo programas orientados a mejorar el bienestar emocional, la participación social y la calidad de vida de adultos mayores y personas con discapacidad mediante procesos creativos, trabajo grupal y expresión artística.\n\n <span style='font-size:0.8rem;'>Pulse sobre cada proyecto para ver los vídeos y saber más..._</span>",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
