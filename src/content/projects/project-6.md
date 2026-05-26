@@ -9,7 +9,7 @@ seo:
 ---
 
 
-Proyecto de una producción audiovisual e inclusión social desarrollado en colaboración con el parque infantil Boomeran Park de Archena y un grupo de actores con discapacidad intelectual vinculados al Centro de Día Los Mazos, Archena.
+Proyecto de inclusión social mediante la creación de una producción audiovisual. Desarrollado en colaboración con el parque infantil Boomeran Park de Archena y un grupo de actores amateurs pertenecientes al Centro de Día Los Mazos, Archena.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
   <iframe
