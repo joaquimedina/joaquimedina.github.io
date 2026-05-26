@@ -2,10 +2,8 @@
 title: Contacto
 seo:
   title: Contacto
-  description: Envíame un correo y vemos que podemos hacer
+  description: Envíame un correo y comencenmos
 ---
+![Project preview](../../assets/images/logo.png)
 
-Gracias por llegar hasta aquí. Para colaboraciones, proyectos o consultas profesionales puedes contactarme a través del _Email:_ [joaquimedina@proton.me](mailto:joaquimedina@proton.me).
-
-_Social Media:_
-Puedes visitarme tambien en [LinkedIn](https://www.linkedin.com/in/josé-joaquín-m-39ba85281).
+Para colaboraciones, cursos o consultas profesionales puedes contactarme a través del _Email:_ [joaquimedina@proton.me](mailto:joaquimedina@proton.me)

@@ -21,6 +21,10 @@ const siteConfig: SiteConfig = {
             text: 'Inicio',
             href: '/'
         },
+                {
+            text: 'Compañía en Escena',
+            href: '/escena'
+        },
         {
             text: 'Proyectos',
             href: '/projects'
