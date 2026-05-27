@@ -5,7 +5,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://temsuo.github.io/',
+    site: 'https://joaquimedina.github.io/',
 
     
     vite: {
