@@ -10,7 +10,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'Joaquín Medina',
-    subtitle: 'Salud Mental · Arteterapia · Envejecimiento Saludable',
+    subtitle: 'Salud Mental · Intervención Social · Envejecimiento Saludable',
     description: 'Portfolio Joaquín Medina, psicología y arteterapia',
     image: {
         src: '/dante-preview.jpg',
