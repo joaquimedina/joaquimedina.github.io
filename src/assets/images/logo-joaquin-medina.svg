@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 680 680" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="pieza-coral">
+        <path d="M340,310C330,310 322,302 322,292C322,282 330,274 340,274L340,230C340,230 310,230 290,218C270,206 255,188 252,168C249,145 260,124 278,114C296,104 318,108 332,120C340,127 340,138 340,148C340,138 340,127 348,120C348,120 340,127 340,148L200,148C185,148 172,158 168,172C164,186 170,202 182,210C194,218 210,216 220,208C228,202 230,192 228,182L228,310L340,310Z" style="fill:rgb(232,99,90);fill-opacity:0.08;fill-rule:nonzero;stroke:rgb(232,99,90);stroke-width:11px;"/>
+        <path d="M252,234C262,218 282,212 298,220C310,226 316,238 312,250" style="fill:none;fill-rule:nonzero;stroke:rgb(232,99,90);stroke-width:8px;stroke-linejoin:miter;"/>
+    </g>
+    <g id="pieza-teal">
+        <g transform="matrix(-1,0,0,1,792,-8)">
+            <path d="M338,318L338,310C328,310 320,302 320,292C320,282 328,274 338,274L338,144C338,152 334,158 328,162C318,168 304,166 296,156C288,146 288,130 298,120C308,110 324,108 336,116C346,122 350,134 350,148L442,148L442,188C440,196 432,202 424,200C412,198 404,186 406,174C408,162 418,154 430,156C442,158 452,168 452,182L452,318L338,318Z" style="fill:rgb(91,173,163);fill-opacity:0.1;fill-rule:nonzero;stroke:rgb(91,173,163);stroke-width:12px;"/>
+        </g>
+        <path d="M368,250C364,238 370,226 382,220C398,212 418,218 428,234" style="fill:none;fill-rule:nonzero;stroke:rgb(91,173,163);stroke-width:8px;stroke-linejoin:miter;"/>
+    </g>
+    <g id="pieza-inferior">
+        <path d="M288,356C304,372 318,376 340,376C362,376 376,372 392,356" style="fill:none;fill-rule:nonzero;stroke:rgb(45,95,90);stroke-width:7px;stroke-linejoin:miter;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,339.44,437)">
+        <text x="-133.116px" y="0px" style="font-family:'Georgia', serif;font-size:28px;fill:rgb(45,95,90);">J<tspan x="-117.504px -95.548px -75.643px -53.687px -31.389px -19.359px 3.24px 11.114px 38.196px 57.609px 79.702px 91.732px 114.331px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">OAQUÍN MEDINA</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,339.805,467)">
+        <text x="-108.154px" y="0px" style="font-family:'Georgia', serif;font-size:13px;fill:rgb(232,168,53);">P<tspan x="-99.836px -92.152px -86.697px -77.96px -67.896px -59.66px -49.597px -39.78px -34.325px -25.213px -21.687px -17.667px -14.141px -5.029px 4.482px 12.915px 21.798px 29.482px 33.007px 41.89px 49.574px 58.311px 67.194px 77.556px 83.012px 91.749px 100.861px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">SICOLOGÍA · ARTES ESCÉNICAS</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-73)">
+        <path d="M240,552L440,552" style="fill:none;fill-rule:nonzero;stroke:rgb(91,173,163);stroke-width:1.5px;stroke-linejoin:miter;"/>
+    </g>
+</svg>
