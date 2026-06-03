@@ -14,9 +14,7 @@ Si quieres proponer una colaboración, consultar un proyecto o hablar sobre posi
 
 ---
 
-## Para qué puedes contactarme
-
-Puedes escribirme especialmente para cuestiones relacionadas con:
+## Puedes escribirme especialmente para cuestiones relacionadas con:
 
 - proyectos de intervención psicosocial;
 - programas de envejecimiento activo y saludable;

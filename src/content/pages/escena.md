@@ -16,10 +16,12 @@ Está dirigido principalmente a personas mayores, aunque puede adaptarse a otros
 
 El programa parte de una idea sencilla:
 
-**una compañía no sólo crea una obra;**  
-**una obra también puede ayudar a crear una compañía.**
+> una compañía no sólo crea una obra;  
+> una obra también puede a crear una compañía.
 
 ![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.png)
+
+---
 
 ## Qué propone
 
@@ -31,37 +33,41 @@ La presentación pública no se entiende como un examen ni como una exhibición 
 
 Se plantea como un acto de reconocimiento: una oportunidad para que participantes, familias, profesionales, instituciones y comunidad puedan encontrarse alrededor de una creación compartida.
 
+---
+
 ## Por qué artes escénicas
 
 Las artes escénicas permiten trabajar dimensiones profundamente humanas:
 
-presencia;
-cuerpo;
-voz;
-escucha;
-relación;
-memoria;
-confianza;
-exposición progresiva;
-participación;
-creación colectiva.
+- presencia;
+- cuerpo;
+- voz;
+- escucha;
+- relación;
+- memoria;
+- confianza;
+- exposición progresiva;
+- participación;
+- creación colectiva.
 
 En Compañía en Escena, el teatro no se utiliza como simple entretenimiento ni como terapia clínica encubierta.
 
 Se utiliza como un espacio de participación significativa, donde las personas pueden ocupar un lugar activo, aportar materiales propios, construir vínculos y ser vistas desde una posición más digna, creativa y compleja.
 
+---
+
 ## A quién va dirigido
 
 El programa está especialmente pensado para:
 
-personas mayores;
-centros de día;
-residencias;
-asociaciones;
-programas de envejecimiento activo;
-proyectos comunitarios;
-contextos intergeneracionales;
-entidades vinculadas a discapacidad, inclusión social o participación cultural.
+- personas mayores;
+- centros de día;
+- residencias;
+- asociaciones;
+- programas de envejecimiento activo;
+- proyectos comunitarios;
+- contextos intergeneracionales;
+- entidades vinculadas a discapacidad, inclusión social o participación cultural.
 
 La metodología puede adaptarse a distintos niveles de autonomía, experiencia previa y condición física.
 
@@ -69,42 +75,48 @@ No es necesario haber hecho teatro antes.
 
 Lo importante no es formar actores profesionales, sino crear una compañía capaz de vivir un proceso artístico compartido con seguridad, cuidado y sentido.
 
+---
+
 ## Cómo se desarrolla
 
 El formato estándar se plantea como un proceso de varias semanas, con sesiones regulares de trabajo escénico.
 
 Las sesiones incluyen:
 
-acogida;
-entrenamiento corporal;
-respiración;
-trabajo vocal;
-entrenamiento escénico;
-descanso;
-composición o ensayo;
-transición;
-cierre.
+- acogida;
+- entrenamiento corporal;
+- respiración;
+- trabajo vocal;
+- entrenamiento escénico;
+- descanso;
+- composición o ensayo;
+- transición;
+- cierre.
 
 El proceso avanza de forma progresiva: primero se construye seguridad, después confianza grupal, después lenguaje común, después materiales escénicos, después obra, presentación pública y cierre interno.
+
+---
 
 ## Qué busca favorecer
 
 Compañía en Escena busca generar condiciones para que aparezcan:
 
-participación activa;
-pertenencia;
-confianza grupal;
-expresión corporal y vocal;
-autoeficacia;
-escucha;
-reconocimiento;
-memoria compartida;
-sentido comunitario;
-bienestar subjetivo.
+- participación activa;
+- pertenencia;
+- confianza grupal;
+- expresión corporal y vocal;
+- autoeficacia;
+- escucha;
+- reconocimiento;
+- memoria compartida;
+- sentido comunitario;
+- bienestar subjetivo.
 
 El programa no promete transformaciones automáticas ni resultados idénticos para todas las personas.
 
 Su valor está en ofrecer una estructura cuidada para que un grupo pueda crear, relacionarse, exponerse de forma progresiva y construir algo significativo junto a otras personas.
+
+---
 
 ## Una metodología con base técnica y ética
 
@@ -117,6 +129,8 @@ El proceso puede incluir registro audiovisual y una pieza final de memoria, siem
 No todo lo vivido debe convertirse en archivo.
 
 Algunas experiencias necesitan simplemente ser compartidas.
+
+---
 
 ## El centro del proyecto
 
