@@ -1,8 +1,11 @@
 ---
 title: Compañía en Escena
 seo:
-  title: Programa de intervención psicosocial para adultos mayores
-  description: Programa de intervención psicosocial para adultos mayores a favor de un envejecimiento saludable a través de las artes escénicas
+  title: Compañía en Escena · Envejecimiento saludable y artes escénicas
+  description: Programa de intervención psicosocial para personas mayores que promueve comunidad, memoria y envejecimiento saludable mediante artes escénicas.
+  image:
+    src: '../../assets/images/escena.png'
+    alt: 'Compañía en Escena, programa de intervención psicosocial y artes escénicas'
 ---
 
 ## Programa de Intervención Psicosocial para promover un Envejecimiento Activo y Saludable
@@ -11,9 +14,7 @@ Cursos de creación escénica colectiva destinados a _"dar voz a los menos escuc
 
 Bajo la influencia de Grotowsky y Brook trabajamos por el desarrollo de una _épica de lo cotidiano_, intentando sensibilizar a la sociedad mediante las historias, gestos y capacidades individuales de nuestros participantes.
 
-<a href="/escena.png" target="_blank">
-  <img src="/escena.png" alt="Compañía en Escena" style="width:100%;" />
-</a>
+![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.png)
 
 Compañía en Escena nace de una convicción muy sencilla:
 las personas nunca dejan de necesitar comunidad, juego, presencia y creación compartida.

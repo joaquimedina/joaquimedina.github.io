@@ -1,14 +1,14 @@
 ---
 title: Sobre mí
 seo:
-  title: Sobre mí
-  description: Conóceme un poquito mas.
+  title: Joaquín Medina · Psicología, arteterapia y proyectos comunitarios
+  description: Conoce el trabajo de Joaquín Medina en psicología, envejecimiento saludable, arteterapia, artes escénicas e intervención comunitaria.
   image:
     src: '../../assets/images/about.jpg'
-    alt: A human being
+    alt: 'Joaquín Medina, psicólogo especializado en intervención psicosocial y artes escénicas'
 ---
 
-![Alt text for image](../../assets/images/about.jpg)
+![Joaquín Medina](../../assets/images/about.jpg)
 
 Soy Joaquín Medina, psicólogo especializado en envejecimiento saludable, intervención psicosocial, arteterapia y desarrollo de proyectos comunitarios basados en las artes escénicas.
 

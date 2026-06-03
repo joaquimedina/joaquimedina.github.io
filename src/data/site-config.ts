@@ -11,10 +11,10 @@ const siteConfig: SiteConfig = {
     },
     title: 'Joaquín Medina',
     subtitle: 'Intervención Social · Envejecimiento Saludable',
-    description: 'Portfolio Joaquín Medina, psicología y arteterapia',
+    description: 'Portfolio de Joaquín Medina: psicología, intervención psicosocial, envejecimiento saludable, artes escénicas y producción audiovisual.',
     image: {
         src: '/portfolio-preview.jpg',
-        alt: 'Portfolio Joaquín Medina, psicología, intervención social y artes escénicas'
+        alt: 'Portfolio de Joaquín Medina sobre psicología, intervención social, artes escénicas y creación audiovisual'
     },
     headerNavLinks: [
         {

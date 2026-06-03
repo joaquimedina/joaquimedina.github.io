@@ -1,8 +1,8 @@
 ---
 title: Términos y condiciones
 seo:
-  title: Terminos y condiciones
-  description: Información legal y condiciones de uso del sitio web.
+  title: Términos y condiciones · Joaquín Medina
+  description: Información legal, propiedad intelectual, responsabilidad y protección de datos del portfolio profesional de Joaquín Medina.
 ---
 
 ## Información general
