@@ -14,8 +14,8 @@ const homeBody = siteConfig.homeContent?.body ? marked.parse(siteConfig.homeCont
 ---
 
 <BaseLayout description={siteConfig.description}>
-    <Hero {...siteConfig.hero} />
-    {homeBody && <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24" set:html={homeBody} />}
+    <Hero {...siteConfig.hero} class="!mb-8 sm:!mb-10" />
+    {homeBody && <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24 [&>*:first-child]:mt-0" set:html={homeBody} />}
     {
         featuredProjects?.length > 0 && (
             <div class="mb-16 sm:mb-24">
