@@ -28,4 +28,3 @@ Asimismo, no se asume responsabilidad por el uso que terceros puedan realizar de
 Este sitio web no recopila datos personales de forma automatizada ni utiliza formularios de registro de usuarios.
 
 En caso de contacto directo mediante correo electrónico u otros medios externos, los datos facilitados serán utilizados únicamente para responder a la comunicación recibida, conforme al Reglamento (UE) 2016/679 (RGPD) y la legislación española vigente en materia de protección de datos.
-

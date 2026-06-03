@@ -4,16 +4,16 @@ import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
     website: 'https://joaquimedina.github.io/',
-    
+
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Joaquín Medina'
     },
     title: 'Joaquín Medina',
     subtitle: 'Intervención Social · Envejecimiento Saludable',
     description: 'Portfolio Joaquín Medina, psicología y arteterapia',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/portfolio-preview.jpg',
         alt: 'Portfolio Joaquín Medina, psicología, intervención social y artes escénicas'
     },
     headerNavLinks: [
@@ -21,7 +21,7 @@ const siteConfig: SiteConfig = {
             text: 'Inicio',
             href: '/'
         },
-                {
+        {
             text: 'Compañía en Escena',
             href: '/escena'
         },
@@ -32,7 +32,7 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contacto',
             href: '/contact'
-        },
+        }
     ],
     footerNavLinks: [
         {
@@ -47,22 +47,17 @@ const siteConfig: SiteConfig = {
             text: 'Términos',
             href: '/terms'
         }
-        
     ],
-    socialLinks: [
-        
-    ],
+    socialLinks: [],
     hero: {
         title: 'Psicología y Artes Escénicas',
-        text: "Psicólogo y profesional multidisciplinar especializado en intervención comunitaria, participación social y proyectos culturales con impacto social. Combino psicología, artes escénicas, creación audiovisual y tecnologías digitales para diseñar iniciativas que favorecen el bienestar, la inclusión, un envejecimiento activo y saludable y la construcción de comunidades más humanas y participativas. [*Ver programa*](/escena)",
+        text: 'Psicólogo y profesional multidisciplinar especializado en intervención comunitaria, participación social y proyectos culturales con impacto social. Combino psicología, artes escénicas, creación audiovisual y tecnologías digitales para diseñar iniciativas que favorecen el bienestar, la inclusión, un envejecimiento activo y saludable y la construcción de comunidades más humanas y participativas. [*Ver programa*](/escena)',
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
-        },
-        
+            alt: 'Joaquín Medina en un entorno de trabajo creativo'
+        }
     },
-    
-    postsPerPage: 8,
+
     projectsPerPage: 8
 };
 

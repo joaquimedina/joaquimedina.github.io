@@ -1,5 +1,6 @@
 ---
 import interWoff2 from '@fontsource-variable/inter/files/inter-latin-wght-normal.woff2?url';
+import newsreaderItalicWoff2 from '@fontsource-variable/newsreader/files/newsreader-latin-wght-italic.woff2?url';
 import newsreaderWoff2 from '@fontsource-variable/newsreader/files/newsreader-latin-wght-normal.woff2?url';
 import { getImage } from 'astro:assets';
 import siteConfig from '../data/site-config';
@@ -64,11 +65,34 @@ function formatCanonicalURL(url: string | URL) {
 <!-- Fonts -->
 <link rel="preload" as="font" type="font/woff2" href={interWoff2} crossorigin="anonymous" />
 <link rel="preload" as="font" type="font/woff2" href={newsreaderWoff2} crossorigin="anonymous" />
+<link rel="preload" as="font" type="font/woff2" href={newsreaderItalicWoff2} crossorigin="anonymous" />
+<style is:inline define:vars={{ interWoff2, newsreaderWoff2, newsreaderItalicWoff2 }}>
+    @font-face {
+        font-family: 'Inter Variable';
+        font-style: normal;
+        font-display: swap;
+        font-weight: 100 900;
+        src: url(var(--interWoff2)) format('woff2-variations');
+    }
+    @font-face {
+        font-family: 'Newsreader Variable';
+        font-style: normal;
+        font-display: swap;
+        font-weight: 200 800;
+        src: url(var(--newsreaderWoff2)) format('woff2-variations');
+    }
+    @font-face {
+        font-family: 'Newsreader Variable';
+        font-style: italic;
+        font-display: swap;
+        font-weight: 200 800;
+        src: url(var(--newsreaderItalicWoff2)) format('woff2-variations');
+    }
+</style>
 
 <!-- Low Priority Global Metadata -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="sitemap" href="/sitemap-index.xml" />
-<link rel="alternate" type="application/rss+xml" href="/rss.xml" title="RSS" />
 
 <!-- Page Metadata -->
 <link rel="canonical" href={formatCanonicalURL(canonicalURL)} />
