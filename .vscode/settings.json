@@ -9,6 +9,5 @@
     },
     "editor.tabSize": 4,
     "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": ["source.organizeImports"],
-    "typescript.tsdk": "node_modules/typescript/lib"
+    "editor.codeActionsOnSave": ["source.organizeImports"]
 }
