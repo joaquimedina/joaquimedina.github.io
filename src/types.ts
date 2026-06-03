@@ -22,6 +22,9 @@ export type HomeContent = {
 
 export type SiteConfig = {
     website: string;
+    author: string;
+    locale?: string;
+    keywords?: string[];
     avatar?: ImageInput;
     title: string;
     subtitle?: string;

@@ -16,7 +16,8 @@ export type Props = {
 };
 
 const { description = '', pageType = 'website' } = Astro.props;
-const title = [Astro.props.title, siteConfig.title].filter(Boolean).join(' | ');
+const rawTitle = Astro.props.title;
+const title = rawTitle ? (rawTitle.includes(siteConfig.title) ? rawTitle : `${rawTitle} | ${siteConfig.title}`) : siteConfig.title;
 const image = Astro.props.image ?? siteConfig.image;
 let resolvedImage: { src: string; alt?: string } | undefined;
 if (image?.src) {
@@ -40,6 +41,19 @@ if (image?.src) {
     }
 }
 const canonicalURL = new URL(Astro.request.url, Astro.site);
+const canonicalHref = formatCanonicalURL(canonicalURL);
+const keywords = siteConfig.keywords?.join(', ');
+const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: siteConfig.author,
+    url: siteConfig.website,
+    description: siteConfig.description,
+    jobTitle: 'Psicólogo e interventor psicosocial',
+    knowsAbout: siteConfig.keywords,
+    image: resolvedImage?.src,
+    sameAs: siteConfig.socialLinks?.map((link) => link.href) ?? []
+};
 
 /**
  * Enforce some standard canonical URL formatting across the site.
@@ -97,10 +111,17 @@ function formatCanonicalURL(url: string | URL) {
 <!-- Page Metadata -->
 <link rel="canonical" href={formatCanonicalURL(canonicalURL)} />
 <meta name="description" content={description} />
+<meta name="author" content={siteConfig.author} />
+<meta name="robots" content="index, follow" />
+{keywords && <meta name="keywords" content={keywords} />}
+<meta name="theme-color" content="#f2f1ec" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#171717" media="(prefers-color-scheme: dark)" />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={pageType} />
-<meta property="og:url" content={formatCanonicalURL(canonicalURL)} />
+<meta property="og:site_name" content={siteConfig.title} />
+<meta property="og:locale" content={siteConfig.locale ?? 'es_ES'} />
+<meta property="og:url" content={canonicalHref} />
 <meta property="og:title" content={title} />
 {description && <meta property="og:description" content={description} />}
 {resolvedImage?.src && <meta property="og:image" content={resolvedImage.src} />}
@@ -108,8 +129,10 @@ function formatCanonicalURL(url: string | URL) {
 
 <!-- X/Twitter -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:url" content={formatCanonicalURL(canonicalURL)} />
+<meta name="twitter:url" content={canonicalHref} />
 <meta name="twitter:title" content={title} />
 {description && <meta name="twitter:description" content={description} />}
 {resolvedImage?.src && <meta name="twitter:image" content={resolvedImage.src} />}
 {resolvedImage?.alt && <meta name="twitter:image:alt" content={resolvedImage.alt} />}
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

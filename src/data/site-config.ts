@@ -4,15 +4,29 @@ import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
     website: 'https://joaquimedina.github.io/',
+    author: 'Joaquín Medina',
+    locale: 'es_ES',
+    keywords: [
+        'Joaquín Medina',
+        'psicología',
+        'intervención psicosocial',
+        'envejecimiento saludable',
+        'artes escénicas aplicadas',
+        'creación colectiva',
+        'participación comunitaria',
+        'producción audiovisual',
+        'discapacidad e inclusión social',
+        'Compañía en Escena'
+    ],
 
     avatar: {
         src: avatar,
         alt: 'Joaquín Medina'
     },
     title: 'Joaquín Medina',
-    subtitle: 'Intervención Social · Envejecimiento Saludable',
+    subtitle: 'Psicología · Artes Escénicas · Intervención Psicosocial',
     description:
-        'Portfolio profesional de Joaquín Medina: psicología, intervención psicosocial, envejecimiento saludable, artes escénicas y creación audiovisual.',
+        'Portfolio profesional de Joaquín Medina sobre psicología, intervención psicosocial, envejecimiento saludable, artes escénicas y creación audiovisual.',
     image: {
         src: '/portfolio-preview.jpg',
         alt: 'Portfolio de Joaquín Medina sobre psicología, intervención social, artes escénicas y creación audiovisual'

@@ -2,7 +2,7 @@
 title: Contacto
 seo:
   title: 'Contacto · Joaquín Medina'
-  description: 'Contacto profesional de Joaquín Medina para colaboraciones, proyectos comunitarios, intervención psicosocial y creación audiovisual.'
+  description: 'Contacto profesional para colaboraciones en intervención psicosocial, envejecimiento saludable, artes escénicas y creación audiovisual.'
   image:
     src: '../../assets/images/logoc-joaquin-medina.png'
     alt: 'Logotipo de Joaquín Medina'

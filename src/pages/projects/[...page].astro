@@ -18,7 +18,11 @@ const { page } = Astro.props;
 const portfolio = page.data;
 ---
 
-<BaseLayout title="Portfolio" description="Explora mi portfolio y conoce mi pasión por la psicología y las artes escénicas" showHeader={false}>
+<BaseLayout
+    title="Proyectos"
+    description="Proyectos de Joaquín Medina en intervención psicosocial, artes escénicas aplicadas, participación comunitaria y producción audiovisual."
+    showHeader={false}
+>
     <h1 class="mb-12 font-serif text-2xl leading-tight italic sm:mb-16 sm:text-4xl">Proyectos</h1>
     {portfolio.map((project) => <ProjectPreview project={project} class="mb-10 sm:mb-12" />)}
     <Pagination page={page} class="my-16 sm:my-24" />

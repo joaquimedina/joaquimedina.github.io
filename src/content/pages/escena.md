@@ -1,98 +1,138 @@
 ---
 title: Compañía en Escena
 seo:
-  title: 'Compañía en Escena · Envejecimiento saludable y artes escénicas'
-  description: 'Programa de intervención psicosocial para personas mayores que promueve comunidad, memoria y envejecimiento saludable mediante artes escénicas.'
+  title: 'Compañía en Escena · Intervención psicosocial y creación colectiva'
+  description: 'Programa de artes escénicas para personas mayores que favorece participación, bienestar, pertenencia y reconocimiento comunitario.'
   image:
     src: '../../assets/images/escena.png'
     alt: 'Compañía en Escena, programa de intervención psicosocial y artes escénicas'
 ---
 
-## Programa de Intervención Psicosocial para promover un Envejecimiento Activo y Saludable
+## Intervención psicosocial, envejecimiento saludable y creación escénica colectiva
 
-Cursos de creación escénica colectiva destinados a _"dar voz a los menos escuchados para que sus historias transformen miradas"_.
+**Compañía en Escena** es un programa de intervención psicosocial basado en las artes escénicas, la creación colectiva y la participación comunitaria.
 
-Bajo la influencia de Grotowsky y Brook trabajamos por el desarrollo de una _épica de lo cotidiano_, intentando sensibilizar a la sociedad mediante las historias, gestos y capacidades individuales de nuestros participantes.
+Está dirigido principalmente a personas mayores, aunque puede adaptarse a otros contextos comunitarios, sociales o institucionales. Su finalidad es favorecer la participación, el bienestar, la pertenencia grupal, la expresión personal y el reconocimiento comunitario mediante un proceso escénico estructurado.
+
+El programa parte de una idea sencilla:
+
+**una compañía no sólo crea una obra;**  
+**una obra también puede ayudar a crear una compañía.**
 
 ![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.png)
 
-Compañía en Escena nace de una convicción muy sencilla:
-las personas nunca dejan de necesitar comunidad, juego, presencia y creación compartida.
+## Qué propone
 
-El proyecto surge del encuentro entre las artes escénicas, la intervención psicosocial y una pregunta profundamente humana:
-¿qué ocurre cuando varias personas vuelven a reunirse para crear algo juntas?
+A lo largo del proceso, un grupo de participantes se constituye progresivamente como compañía.
 
-A través del cuerpo, la voz, la improvisación, la memoria, el humor y el trabajo colectivo, Compañía en Escena transforma un grupo de participantes en una pequeña comunidad temporal capaz de construir:
+Cada sesión combina trabajo corporal, respiración, voz, escucha, improvisación, memoria, juego escénico y creación colectiva. A partir de esos materiales, la compañía construye una obra propia que puede compartirse públicamente al final del programa.
 
-- escenas,
-- recuerdos,
-- vínculos,
-- rituales,
-- experiencias compartidas de significado.
+La presentación pública no se entiende como un examen ni como una exhibición asistencialista.
 
-El programa está dirigido principalmente a personas mayores y propone un espacio donde la edad deja de ser entendida únicamente desde el deterioro o la dependencia para reaparecer también como territorio de:
+Se plantea como un acto de reconocimiento: una oportunidad para que participantes, familias, profesionales, instituciones y comunidad puedan encontrarse alrededor de una creación compartida.
 
-- creatividad,
-- sensibilidad,
-- juego,
-- experiencia,
-- presencia cultural.
+## Por qué artes escénicas
 
-Cada sesión combina:
+Las artes escénicas permiten trabajar dimensiones profundamente humanas:
 
-- entrenamiento corporal,
-- dinámicas escénicas,
-- improvisación,
-- creación colectiva,
-- conversación,
-- escucha grupal.
+presencia;
+cuerpo;
+voz;
+escucha;
+relación;
+memoria;
+confianza;
+exposición progresiva;
+participación;
+creación colectiva.
 
-Poco a poco, el grupo desarrolla una representación final nacida de sus propias historias, imaginarios, recuerdos y relaciones.
+En Compañía en Escena, el teatro no se utiliza como simple entretenimiento ni como terapia clínica encubierta.
 
-Sin embargo, el verdadero centro del proyecto no es únicamente la actuación.
-Es el proceso humano que aparece entre ensayo y ensayo:
-las conversaciones,
-las risas,
-las inseguridades compartidas,
-los pequeños gestos de cuidado,
-la confianza que lentamente comienza a existir entre personas que antes eran desconocidas.
+Se utiliza como un espacio de participación significativa, donde las personas pueden ocupar un lugar activo, aportar materiales propios, construir vínculos y ser vistas desde una posición más digna, creativa y compleja.
 
-Compañía en Escena entiende las artes escénicas no solo como representación, sino como acontecimiento vivo:
-un espacio donde los cuerpos vuelven a ocupar lugar,
-donde las personas vuelven a ser vistas,
-donde la comunidad reaparece temporalmente alrededor de una experiencia compartida.
+## A quién va dirigido
 
-La representación final y el vídeo conmemorativo funcionan como celebración colectiva y memoria comunitaria.
-Durante ese momento confluyen:
+El programa está especialmente pensado para:
 
-- participantes,
-- familias,
-- amistades,
-- profesionales,
-- instituciones,
-- vecinos,
-- comunidad local.
+personas mayores;
+centros de día;
+residencias;
+asociaciones;
+programas de envejecimiento activo;
+proyectos comunitarios;
+contextos intergeneracionales;
+entidades vinculadas a discapacidad, inclusión social o participación cultural.
 
-La escena se convierte entonces en algo más que teatro:
-se transforma en encuentro humano.
+La metodología puede adaptarse a distintos niveles de autonomía, experiencia previa y condición física.
 
-Inspirado parcialmente en referentes como:
+No es necesario haber hecho teatro antes.
 
-- el espacio vacío de Peter Brook,
-- el teatro pobre de Jerzy Grotowski,
-- la creación colectiva,
-- las prácticas performativas contemporáneas,
+Lo importante no es formar actores profesionales, sino crear una compañía capaz de vivir un proceso artístico compartido con seguridad, cuidado y sentido.
 
-el programa apuesta por una escena sencilla, accesible y profundamente humana, donde lo importante no es la espectacularidad técnica sino la autenticidad del vínculo y la experiencia compartida.
+## Cómo se desarrolla
 
-Compañía en Escena no busca únicamente producir representaciones.
-Busca crear lugares donde todavía sea posible:
+El formato estándar se plantea como un proceso de varias semanas, con sesiones regulares de trabajo escénico.
 
-- jugar,
-- imaginar,
-- emocionarse,
-- construir memoria colectiva,
-- sentirse parte de algo compartido.
+Las sesiones incluyen:
 
-Porque quizá una comunidad comienza precisamente ahí:
-cuando varias personas vuelven a reunirse para crear juntas.
+acogida;
+entrenamiento corporal;
+respiración;
+trabajo vocal;
+entrenamiento escénico;
+descanso;
+composición o ensayo;
+transición;
+cierre.
+
+El proceso avanza de forma progresiva: primero se construye seguridad, después confianza grupal, después lenguaje común, después materiales escénicos, después obra, presentación pública y cierre interno.
+
+## Qué busca favorecer
+
+Compañía en Escena busca generar condiciones para que aparezcan:
+
+participación activa;
+pertenencia;
+confianza grupal;
+expresión corporal y vocal;
+autoeficacia;
+escucha;
+reconocimiento;
+memoria compartida;
+sentido comunitario;
+bienestar subjetivo.
+
+El programa no promete transformaciones automáticas ni resultados idénticos para todas las personas.
+
+Su valor está en ofrecer una estructura cuidada para que un grupo pueda crear, relacionarse, exponerse de forma progresiva y construir algo significativo junto a otras personas.
+
+## Una metodología con base técnica y ética
+
+Compañía en Escena se apoya en la evidencia sobre artes participativas, teatro aplicado, envejecimiento saludable, soledad, participación social y competencias relacionales.
+
+La metodología incorpora criterios de seguridad física, seguridad psicológica, consentimiento informado, documentación audiovisual responsable y evaluación prudente.
+
+El proceso puede incluir registro audiovisual y una pieza final de memoria, siempre desde el respeto a la privacidad, la dignidad y los derechos de imagen de las personas participantes.
+
+No todo lo vivido debe convertirse en archivo.
+
+Algunas experiencias necesitan simplemente ser compartidas.
+
+## El centro del proyecto
+
+El verdadero centro de Compañía en Escena no es únicamente la obra final.
+
+Es lo que ocurre durante el proceso:
+
+las primeras dudas,  
+los gestos de confianza,  
+las voces que empiezan a escucharse,  
+los cuerpos que ocupan de nuevo un espacio,  
+las risas durante el descanso,  
+los objetos que adquieren significado,  
+las escenas que aparecen poco a poco,  
+la compañía que empieza a reconocerse a sí misma.
+
+Porque una comunidad puede comenzar precisamente ahí:
+
+cuando varias personas vuelven a reunirse para crear algo juntas.
