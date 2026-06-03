@@ -1,38 +1,13 @@
 ---
-import { getCollection } from 'astro:content';
 import { marked } from 'marked';
-import Button from '../components/Button.astro';
 import Hero from '../components/Hero.astro';
-import ProjectPreview from '../components/ProjectPreview.astro';
 import siteConfig from '../data/site-config';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { sortItemsByDateDesc } from '../utils/data-utils';
 
-const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
-const featuredProjects = projects.filter(({ data }) => data.isFeatured);
 const homeBody = siteConfig.homeContent?.body ? marked.parse(siteConfig.homeContent.body) : '';
 ---
 
 <BaseLayout description={siteConfig.description}>
     <Hero {...siteConfig.hero} class="!mb-8 sm:!mb-10" />
     {homeBody && <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24 [&>*:first-child]:mt-0" set:html={homeBody} />}
-    {
-        featuredProjects?.length > 0 && (
-            <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">
-                    Proyectos{' '}
-                    <>
-                        <br />
-                        <span class="text-sm">Pulsa sobre cada proyecto para ver los vídeos y saber más...</span>
-                    </>
-                </h2>
-                {featuredProjects.map((project) => (
-                    <ProjectPreview project={project} class="mb-10 sm:mb-12" headingLevel="h3" />
-                ))}
-                <div class="mt-12 sm:mt-16">
-                    <Button href="/projects">Ver todos los proyectos</Button>
-                </div>
-            </div>
-        )
-    }
 </BaseLayout>
