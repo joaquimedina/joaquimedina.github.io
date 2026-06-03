@@ -16,6 +16,10 @@ export type Hero = {
     actions?: Link[];
 };
 
+export type HomeContent = {
+    body?: string;
+};
+
 export type SiteConfig = {
     website: string;
     avatar?: ImageInput;
@@ -27,5 +31,6 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
+    homeContent?: HomeContent;
     projectsPerPage?: number;
 };

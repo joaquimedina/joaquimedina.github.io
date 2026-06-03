@@ -1,30 +1,92 @@
 ---
 title: Términos y condiciones
 seo:
-  title: Términos y condiciones · Joaquín Medina
-  description: Información legal, propiedad intelectual, responsabilidad y protección de datos del portfolio profesional de Joaquín Medina.
+  title: 'Términos y condiciones · Joaquín Medina'
+  description: 'Términos de uso, propiedad intelectual, responsabilidad y protección de datos del sitio web de Joaquín Medina.'
 ---
 
 ## Información general
 
-Este sitio web es de carácter informativo y profesional, tiene como finalidad mostrar proyectos, trabajos audiovisuales y actividades relacionadas con la psicología, la intervención psicosocial, las artes escénicas y la producción audiovisual.
+Este sitio web tiene carácter informativo y profesional.
 
-El acceso y navegación por este sitio implica la aceptación de las presentes condiciones de uso.
+Su finalidad es presentar el trabajo, proyectos, materiales y líneas de actividad de Joaquín Medina en los ámbitos de la psicología, la intervención psicosocial, el envejecimiento saludable, las artes escénicas, la participación comunitaria y la creación audiovisual.
+
+El acceso y navegación por este sitio implica la aceptación de estas condiciones de uso.
+
+---
+
+## Uso del sitio
+
+La persona usuaria se compromete a utilizar este sitio web de forma adecuada, respetuosa y conforme a la legislación vigente.
+
+No se permite utilizar los contenidos del sitio para fines ilícitos, lesivos, comerciales no autorizados o contrarios a la buena fe.
 
 ## Propiedad intelectual
 
-Todos los contenidos publicados en este sitio web, incluyendo textos, imágenes, vídeos y materiales audiovisuales, son propiedad de sus respectivos autores y titulares de derechos, salvo que se indique lo contrario.
+Salvo que se indique expresamente lo contrario, los textos, imágenes, vídeos, diseños, materiales audiovisuales y demás contenidos publicados en este sitio pertenecen a sus respectivos autores o titulares de derechos.
 
-No se permite la reproducción, distribución o utilización comercial de los contenidos sin autorización previa.
+No se permite la reproducción, distribución, transformación, comunicación pública o uso comercial de los contenidos sin autorización previa y por escrito.
+
+Algunos proyectos pueden incluir materiales desarrollados en colaboración con instituciones, compañías, participantes, entidades públicas o privadas. En esos casos, los derechos pueden estar compartidos o corresponder a sus titulares legítimos.
+
+---
+
+## Uso de imágenes y materiales audiovisuales
+
+Las imágenes, vídeos y materiales audiovisuales publicados en este sitio tienen una finalidad informativa, documental o profesional.
+
+Cuando aparecen personas participantes en proyectos comunitarios, escénicos o audiovisuales, su presencia debe entenderse dentro del contexto específico del proyecto correspondiente.
+
+No se autoriza la descarga, reutilización, edición, difusión o extracción de imágenes de personas para usos externos sin consentimiento expreso.
+
+---
+
+## Enlaces externos
+
+Este sitio puede incluir enlaces a plataformas externas, vídeos, repositorios, publicaciones, redes sociales u otras páginas web.
+
+Joaquín Medina no se responsabiliza del contenido, disponibilidad, políticas de privacidad o condiciones de uso de sitios externos ajenos a este dominio.
+
+El acceso a páginas externas se realiza bajo responsabilidad de la persona usuaria.
 
 ## Responsabilidad
 
-El titular del sitio web no garantiza la ausencia de errores técnicos ni la disponibilidad permanente del sitio, aunque se realizarán esfuerzos razonables para mantenerlo actualizado y operativo.
+Se procura que la información publicada sea clara, actualizada y correcta.
 
-Asimismo, no se asume responsabilidad por el uso que terceros puedan realizar de los contenidos publicados.
+No obstante, no se garantiza la ausencia completa de errores, interrupciones técnicas o desactualizaciones puntuales.
+
+El contenido de este sitio no constituye asesoramiento psicológico, sanitario, jurídico ni profesional individualizado. Para situaciones personales, clínicas, legales o institucionales concretas, debe consultarse con profesionales o servicios especializados.
 
 ## Protección de datos
 
-Este sitio web no recopila datos personales de forma automatizada ni utiliza formularios de registro de usuarios.
+Este sitio web no recopila datos personales mediante formularios propios ni sistemas de registro de usuarios.
 
-En caso de contacto directo mediante correo electrónico u otros medios externos, los datos facilitados serán utilizados únicamente para responder a la comunicación recibida, conforme al Reglamento (UE) 2016/679 (RGPD) y la legislación española vigente en materia de protección de datos.
+En caso de contacto directo por correo electrónico, los datos facilitados serán utilizados únicamente para responder a la comunicación recibida, gestionar la consulta o valorar una posible colaboración profesional.
+
+Estos datos no serán cedidos a terceros salvo obligación legal o consentimiento expreso de la persona interesada.
+
+El tratamiento de datos se realizará conforme al Reglamento (UE) 2016/679, Reglamento General de Protección de Datos, y la legislación española vigente en materia de protección de datos personales.
+
+---
+
+## Cookies y analítica
+
+Este sitio puede estar alojado en servicios externos, como GitHub Pages u otros proveedores técnicos, que podrían aplicar sus propias condiciones, registros técnicos o políticas de privacidad.
+
+Este sitio no utiliza, salvo indicación expresa, cookies propias de seguimiento comercial ni sistemas propios de analítica invasiva.
+
+---
+
+## Modificaciones
+
+Estas condiciones pueden actualizarse en cualquier momento para adaptarse a cambios técnicos, legales o de contenido del sitio.
+
+La versión publicada en esta página será la vigente en cada momento.
+
+---
+
+## Contacto
+
+Para cualquier consulta relacionada con estas condiciones, propiedad intelectual, uso de materiales o protección de datos, puedes escribir a:
+
+**[joaquimedina@proton.me](mailto:joaquimedina@proton.me)**

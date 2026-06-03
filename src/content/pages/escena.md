@@ -1,8 +1,8 @@
 ---
 title: Compañía en Escena
 seo:
-  title: Compañía en Escena · Envejecimiento saludable y artes escénicas
-  description: Programa de intervención psicosocial para personas mayores que promueve comunidad, memoria y envejecimiento saludable mediante artes escénicas.
+  title: 'Compañía en Escena · Envejecimiento saludable y artes escénicas'
+  description: 'Programa de intervención psicosocial para personas mayores que promueve comunidad, memoria y envejecimiento saludable mediante artes escénicas.'
   image:
     src: '../../assets/images/escena.png'
     alt: 'Compañía en Escena, programa de intervención psicosocial y artes escénicas'

@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { marked } from 'marked';
 import Button from '../components/Button.astro';
 import Hero from '../components/Hero.astro';
 import ProjectPreview from '../components/ProjectPreview.astro';
@@ -9,10 +10,12 @@ import { sortItemsByDateDesc } from '../utils/data-utils';
 
 const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
 const featuredProjects = projects.filter(({ data }) => data.isFeatured);
+const homeBody = siteConfig.homeContent?.body ? marked.parse(siteConfig.homeContent.body) : '';
 ---
 
 <BaseLayout description={siteConfig.description}>
     <Hero {...siteConfig.hero} />
+    {homeBody && <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24" set:html={homeBody} />}
     {
         featuredProjects?.length > 0 && (
             <div class="mb-16 sm:mb-24">
