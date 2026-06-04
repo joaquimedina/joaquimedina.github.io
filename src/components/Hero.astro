@@ -14,7 +14,7 @@ const hasContent = Astro.slots.has('content');
         <section class:list={['mb-16 flex w-full flex-col gap-8 sm:mb-24', className]}>
             {title && <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">{title}</h1>}
             {image?.src && (
-                <figure>
+                <figure class="border-main w-full border bg-transparent p-2 sm:p-3">
                     <CustomImage
                         class="w-full"
                         {...image}
