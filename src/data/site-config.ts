@@ -1,5 +1,5 @@
 import avatar from '../assets/images/avatar.jpg';
-import hero from '../assets/images/hero.jpg';
+import hero from '../assets/images/hero.webp';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
@@ -65,7 +65,7 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [],
     hero: {
-        title: 'Joaquín Medina',
+        title: '',
         image: {
             src: hero,
             alt: 'Joaquín Medina en un entorno de trabajo creativo'
