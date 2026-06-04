@@ -55,16 +55,6 @@ const navLinks = siteConfig.headerNavLinks ?? [];
                 transform 0.2s cubic-bezier(0.4, 0, 0.2, 1),
                 visibility 0s linear 0.2s;
         }
-        .menu:before {
-            position: absolute;
-            top: 0.75rem;
-            right: 0.75rem;
-            left: 0.75rem;
-            height: 1px;
-            content: '';
-            background: linear-gradient(90deg, var(--accent-warm), var(--accent-cool));
-            opacity: 0.8;
-        }
         .menu.is-visible {
             @apply visible opacity-100;
             transform: translateY(0);
