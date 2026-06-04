@@ -70,11 +70,18 @@ const navLinks = siteConfig.headerNavLinks ?? [];
             @apply w-0;
             transition: width 0.1s cubic-bezier(0.4, 0, 0.2, 1);
         }
+        .menu-toggle.is-active .menu-toggle-icon:before {
+            background: var(--accent-warm);
+        }
+        .menu-toggle.is-active .menu-toggle-icon:after {
+            background: var(--accent-cool);
+        }
         .menu-toggle-icon:before,
         .menu-toggle-icon:after {
             @apply absolute top-0 left-1/2 h-px w-6 origin-center -translate-x-1/2 bg-current;
             content: '';
             transition:
+                background-color 0.18s ease,
                 rotate 0.2s cubic-bezier(0.4, 0, 0.2, 1),
                 margin 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.2s;
         }
