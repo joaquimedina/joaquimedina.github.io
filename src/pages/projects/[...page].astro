@@ -24,6 +24,45 @@ const portfolio = page.data;
     showHeader={false}
 >
     <h1 class="mb-12 font-serif text-2xl leading-tight italic sm:mb-16 sm:text-4xl">Proyectos</h1>
+    {
+        page.currentPage === 1 && (
+            <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24 [&>*:first-child]:mt-0">
+                <p>
+                    Esta sección reúne una selección de trabajos vinculados a la intervención psicosocial, las artes escénicas, la creación audiovisual, la
+                    participación comunitaria y la memoria de procesos.
+                </p>
+                <p>Algunos proyectos nacen en contextos culturales o escénicos.</p>
+                <p>Otros se desarrollan en colaboración con instituciones, asociaciones, ayuntamientos o centros de atención social.</p>
+                <p>
+                    En todos ellos aparece una misma línea de fondo: utilizar la creación como una forma de participación, vínculo, representación y
+                    reconocimiento.
+                </p>
+                <p>No me interesa la imagen como simple escaparate.</p>
+                <p>
+                    Me interesa la imagen cuando permite contar un proceso, conservar una experiencia, hacer visible una comunidad o abrir un espacio donde las
+                    personas puedan aparecer desde un lugar más activo y digno.
+                </p>
+            </section>
+        )
+    }
     {portfolio.map((project) => <ProjectPreview project={project} class="mb-10 sm:mb-12" />)}
+    {
+        page.currentPage === 1 && (
+            <section class="prose sm:prose-lg mt-16 max-w-none sm:mt-24 [&>*:first-child]:mt-0">
+                <hr />
+                <h2>Líneas presentes en los proyectos</h2>
+                <ul>
+                    <li>Intervención psicosocial y comunitaria.</li>
+                    <li>Artes escénicas aplicadas.</li>
+                    <li>Creación colectiva.</li>
+                    <li>Envejecimiento, discapacidad e inclusión social.</li>
+                    <li>Producción y realización audiovisual.</li>
+                    <li>Memoria audiovisual de procesos.</li>
+                    <li>Participación ciudadana y cultura comunitaria.</li>
+                    <li>Documentación de prácticas artísticas y escénicas.</li>
+                </ul>
+            </section>
+        )
+    }
     <Pagination page={page} class="my-16 sm:my-24" />
 </BaseLayout>

@@ -84,6 +84,12 @@ html.dark {
         @apply font-normal underline decoration-dashed decoration-1 underline-offset-2 hover:decoration-solid;
     }
 
+    .prose hr {
+        height: 1px;
+        border: 0;
+        background: var(--accent-cool);
+    }
+
     .prose :where(h1, h2, h3, h4, h5, h6) {
         @apply font-serif font-medium;
     }

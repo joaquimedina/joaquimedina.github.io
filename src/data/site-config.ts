@@ -24,7 +24,7 @@ const siteConfig: SiteConfig = {
         alt: 'Joaquín Medina'
     },
     title: 'Joaquín Medina',
-    subtitle: 'Intervención Psicosocial · Artes Escénicas',
+    subtitle: 'Envejecimiento Activo y Saludable',
     description:
         'Portfolio profesional de Joaquín Medina sobre psicología, intervención psicosocial, envejecimiento saludable, artes escénicas y creación audiovisual.',
     image: {
@@ -65,7 +65,7 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [],
     hero: {
-        title: '',
+        title: 'Psicología, artes escénicas e intervención psicosocial',
         image: {
             src: hero,
             alt: 'Joaquín Medina en un entorno de trabajo creativo'

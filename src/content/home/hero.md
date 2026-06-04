@@ -1,4 +1,4 @@
-## Psicología, artes escénicas e intervención psicosocial
+---
 
 Soy psicólogo especializado en envejecimiento activo y saludable, intervención psicosocial y proyectos comunitarios basados en las artes escénicas, la creación colectiva y la producción audiovisual.
 
