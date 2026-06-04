@@ -17,7 +17,7 @@ Está dirigido principalmente a personas mayores, aunque puede adaptarse a otros
 El programa parte de una idea sencilla:
 
 > una compañía no sólo crea una obra;  
-> una obra también puede a crear una compañía.
+> una obra también puede crear una compañía.
 
 ![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.png)
 
