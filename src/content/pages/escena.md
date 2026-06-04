@@ -10,6 +10,8 @@ seo:
 
 ## Intervención psicosocial, envejecimiento saludable y creación escénica colectiva
 
+![Compañía en Escena, proceso de creación escénica colectiva](../../assets/images/escena-1.webp)
+
 **Compañía en Escena** es un programa de intervención psicosocial basado en las artes escénicas, la creación colectiva y la participación comunitaria.
 
 Está dirigido principalmente a personas mayores, aunque puede adaptarse a otros contextos comunitarios, sociales o institucionales. Su finalidad es favorecer la participación, el bienestar, la pertenencia grupal, la expresión personal y el reconocimiento comunitario mediante un proceso escénico estructurado.
@@ -18,8 +20,6 @@ El programa parte de una idea sencilla:
 
 > una compañía no sólo crea una obra;  
 > una obra también puede crear una compañía.
-
-![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.png)
 
 ---
 
@@ -117,6 +117,8 @@ El programa no promete transformaciones automáticas ni resultados idénticos pa
 Su valor está en ofrecer una estructura cuidada para que un grupo pueda crear, relacionarse, exponerse de forma progresiva y construir algo significativo junto a otras personas.
 
 ---
+
+![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.png)
 
 ## Una metodología con base técnica y ética
 
