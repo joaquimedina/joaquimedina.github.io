@@ -1,13 +1,22 @@
 ---
-import { marked } from 'marked';
+import { getEntry, render } from 'astro:content';
 import Hero from '../components/Hero.astro';
 import siteConfig from '../data/site-config';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const homeBody = siteConfig.homeContent?.body ? marked.parse(siteConfig.homeContent.body) : '';
+const heroEntry = await getEntry('home', 'hero');
+const bodyEntry = await getEntry('home', 'body');
+const { Content: HeroContent } = await render(heroEntry);
+const { Content: BodyContent } = await render(bodyEntry);
 ---
 
 <BaseLayout description={siteConfig.description}>
-    <Hero {...siteConfig.hero} class="!mb-8 sm:!mb-10" />
-    {homeBody && <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24 [&>*:first-child]:mt-0" set:html={homeBody} />}
+    <Hero {...siteConfig.hero} class="!mb-8 sm:!mb-10">
+        <Fragment slot="content">
+            <HeroContent />
+        </Fragment>
+    </Hero>
+    <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24 [&>*:first-child]:mt-0">
+        <BodyContent />
+    </section>
 </BaseLayout>

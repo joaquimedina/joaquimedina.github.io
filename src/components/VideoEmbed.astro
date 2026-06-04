@@ -1,0 +1,20 @@
+---
+type Props = {
+    videoId: string;
+    title: string;
+};
+
+const { videoId, title } = Astro.props;
+const src = `https://player.vimeo.com/video/${videoId}`;
+---
+
+<div class="my-8 aspect-video overflow-hidden">
+    <iframe
+        class="h-full w-full"
+        src={src}
+        title={title}
+        loading="lazy"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>

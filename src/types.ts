@@ -11,13 +11,8 @@ export type Link = {
 
 export type Hero = {
     title?: string;
-    text?: string;
     image?: ImageInput;
     actions?: Link[];
-};
-
-export type HomeContent = {
-    body?: string;
 };
 
 export type SiteConfig = {
@@ -34,6 +29,5 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-    homeContent?: HomeContent;
     projectsPerPage?: number;
 };

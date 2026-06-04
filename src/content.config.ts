@@ -24,6 +24,11 @@ const pages = defineCollection({
         })
 });
 
+const home = defineCollection({
+    loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/home' }),
+    schema: z.object({})
+});
+
 const projects = defineCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/projects' }),
     schema: ({ image }) =>
@@ -36,4 +41,4 @@ const projects = defineCollection({
         })
 });
 
-export const collections = { pages, projects };
+export const collections = { pages, projects, home };

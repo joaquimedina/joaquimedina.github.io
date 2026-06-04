@@ -12,6 +12,7 @@ seo:
 ---
 
 import { Image } from 'astro:assets';
+import VideoEmbed from '../../components/VideoEmbed.astro';
 import img3 from '../../assets/images/alcontar3.jpg';
 import img4 from '../../assets/images/alcontar4.jpg';
 import img5 from '../../assets/images/alcontar5.jpg';
@@ -33,15 +34,7 @@ Proyecto interdisciplinar de creación artística comunitaria desarrollado en co
 
 • Documentación de procesos participativos y acciones artísticas realizadas durante el festival.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
-  <iframe
-    src="https://player.vimeo.com/video/28155597"
-    frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen
-    style="position: absolute; top:0; left:0; width:100%; height:100%;"
-  ></iframe>
-</div>
+<VideoEmbed videoId="28155597" title="Campo de Desconcentración Polivalente - pieza audiovisual" />
 
 **Formación y trabajo comunitario**
 
@@ -99,16 +92,16 @@ Además, el uso de herramientas audiovisuales y escénicas permitió documentar 
 - Integración social y participación comunitaria
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 2rem 0;">
-  <a href="/src/assets/images/alcontar3.jpg" target="_blank">
+  <a href={img3.src} target="_blank" rel="noopener noreferrer">
     <Image src={img3} alt="Intervención comunitaria Alcóntar" width={600} />
   </a>
-  <a href="/src/assets/images/alcontar4.jpg" target="_blank">
+  <a href={img4.src} target="_blank" rel="noopener noreferrer">
     <Image src={img4} alt="Taller artístico Alcóntar" width={600} />
   </a>
-  <a href="/src/assets/images/alcontar5.jpg" target="_blank">
+  <a href={img5.src} target="_blank" rel="noopener noreferrer">
     <Image src={img5} alt="Producción audiovisual Alcóntar" width={600} />
   </a>
-  <a href="/src/assets/images/alcontar8.jpg" target="_blank">
+  <a href={img6.src} target="_blank" rel="noopener noreferrer">
     <Image src={img6} alt="Intervención comunitaria Alcóntar" width={600} />
   </a>
 </div>

@@ -1,16 +1,16 @@
 ---
-import { marked } from 'marked';
 import type { Hero as HeroProps } from '../types';
 import Button from './Button.astro';
 import CustomImage from './CustomImage.astro';
 
 type Props = HeroProps & { class?: string };
 
-const { title, image, text, actions, class: className } = Astro.props;
+const { title, image, actions, class: className } = Astro.props;
+const hasContent = Astro.slots.has('content');
 ---
 
 {
-    (title || image?.src || text || (actions && actions.length > 0)) && (
+    (title || image?.src || hasContent || (actions && actions.length > 0)) && (
         <section class:list={['mb-16 flex w-full flex-col gap-8 sm:mb-24', className]}>
             {title && <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">{title}</h1>}
             {image?.src && (
@@ -26,7 +26,11 @@ const { title, image, text, actions, class: className } = Astro.props;
                     {image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{image.caption}</figcaption>}
                 </figure>
             )}
-            {text && <div class="prose sm:prose-lg max-w-none" set:html={marked.parse(text)} />}
+            {hasContent && (
+                <div class="prose sm:prose-lg max-w-none">
+                    <slot name="content" />
+                </div>
+            )}
             {actions && actions.length > 0 && (
                 <div class="flex flex-wrap gap-4">
                     {actions.map((action) => (
