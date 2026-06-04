@@ -2,19 +2,56 @@
 type Props = {
     videoId: string;
     title: string;
+    provider?: 'vimeo' | 'youtube';
 };
 
-const { videoId, title } = Astro.props;
-const src = `https://player.vimeo.com/video/${videoId}`;
+const { videoId, title, provider = 'vimeo' } = Astro.props;
+const src = provider === 'youtube' ? `https://www.youtube-nocookie.com/embed/${videoId}` : `https://player.vimeo.com/video/${videoId}`;
+const providerLabel = provider === 'youtube' ? 'YouTube' : 'Vimeo';
 ---
 
-<div class="my-8 aspect-video overflow-hidden">
-    <iframe
-        class="h-full w-full"
-        src={src}
-        title={title}
-        loading="lazy"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen
-        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<div
+    class="video-embed border-main bg-muted my-8 flex aspect-video items-center justify-center border border-dashed p-6 text-center"
+    data-src={src}
+    data-title={title}
+>
+    <button
+        class="font-serif text-lg leading-tight italic underline decoration-dashed decoration-1 underline-offset-4 hover:decoration-solid focus:outline-2 focus:outline-offset-4 focus:outline-[var(--accent-cool)]"
+        type="button"
+    >
+        Ver vídeo en {providerLabel}
+    </button>
 </div>
+
+<script>
+    if (!document.documentElement.dataset.videoEmbedReady) {
+        document.documentElement.dataset.videoEmbedReady = 'true';
+
+        document.addEventListener('click', (event) => {
+            const target = event.target;
+            if (!(target instanceof Element)) return;
+
+            const button = target.closest('.video-embed button');
+            if (!(button instanceof HTMLButtonElement)) return;
+
+            const container = button.closest('.video-embed');
+            if (!(container instanceof HTMLElement)) return;
+
+            const src = container.dataset.src;
+            const title = container.dataset.title;
+            if (!src || !title) return;
+
+            const iframe = document.createElement('iframe');
+            iframe.className = 'h-full w-full';
+            iframe.src = src;
+            iframe.title = title;
+            iframe.loading = 'lazy';
+            iframe.allow = 'autoplay; fullscreen; picture-in-picture';
+            iframe.allowFullscreen = true;
+            iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+
+            container.classList.remove('border', 'border-dashed', 'p-6', 'text-center', 'bg-muted', 'flex', 'items-center', 'justify-center');
+            container.replaceChildren(iframe);
+        });
+    }
+</script>
