@@ -4,13 +4,13 @@ seo:
   title: 'Compañía en Escena · Intervención psicosocial y creación colectiva'
   description: 'Programa de artes escénicas para personas mayores que favorece participación, bienestar, pertenencia y reconocimiento comunitario.'
   image:
-    src: '../../assets/images/escena.png'
+    src: '../../assets/images/escena.webp'
     alt: 'Compañía en Escena, programa de intervención psicosocial y artes escénicas'
 ---
 
 ## Intervención psicosocial, envejecimiento saludable y creación escénica colectiva
 
-![Compañía en Escena, proceso de creación escénica colectiva](../../assets/images/escena-1.webp)
+![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena-2.webp)
 
 **Compañía en Escena** es un programa de intervención psicosocial basado en las artes escénicas, la creación colectiva y la participación comunitaria.
 
@@ -55,6 +55,8 @@ En Compañía en Escena, el teatro no se utiliza como simple entretenimiento ni 
 Se utiliza como un espacio de participación significativa, donde las personas pueden ocupar un lugar activo, aportar materiales propios, construir vínculos y ser vistas desde una posición más digna, creativa y compleja.
 
 ---
+
+![Compañía en Escena, proceso de creación escénica colectiva](../../assets/images/escena-1.webp)
 
 ## A quién va dirigido
 
@@ -118,7 +120,7 @@ Su valor está en ofrecer una estructura cuidada para que un grupo pueda crear, 
 
 ---
 
-![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.png)
+![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena.webp)
 
 ## Una metodología con base técnica y ética
 

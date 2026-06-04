@@ -105,4 +105,8 @@ html.dark {
     .content-about img {
         @apply border-main mx-auto my-10 w-full max-w-2xl border bg-transparent p-2 sm:my-12 sm:p-3;
     }
+
+    .project-preview-title {
+        color: var(--accent-cool);
+    }
 }
