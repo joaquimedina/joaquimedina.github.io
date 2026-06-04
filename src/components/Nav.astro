@@ -20,12 +20,12 @@ const navLinks = siteConfig.headerNavLinks ?? [];
                 </button>
                 <ul
                     id="menu-items"
-                    class="menu max-md:bg-main max-md:border-main flex gap-6 max-md:absolute max-md:-top-2.5 max-md:-left-2.5 max-md:z-20 max-md:max-w-64 max-md:flex-col max-md:gap-1 max-md:border max-md:border-dashed max-md:px-3 max-md:pt-16 max-md:pb-10"
+                    class="menu max-md:bg-main max-md:border-main flex gap-6 max-md:absolute max-md:-top-2.5 max-md:-left-2.5 max-md:z-20 max-md:flex-col max-md:gap-1 max-md:border max-md:border-dashed max-md:px-3 max-md:pt-16 max-md:pb-10"
                 >
                     {navLinks.map((link) => (
                         <li class="py-1">
                             <NavLink
-                                class="text-main font-serif text-xl hover:underline hover:decoration-1 hover:underline-offset-2 md:text-base"
+                                class="nav-link text-main font-serif text-xl hover:underline hover:decoration-1 hover:underline-offset-2 md:text-base"
                                 href={link.href}
                             >
                                 {link.text}
@@ -47,11 +47,31 @@ const navLinks = siteConfig.headerNavLinks ?? [];
     @media (max-width: 767px) {
         .menu {
             @apply invisible opacity-0;
-            width: calc(100% + 1.25rem);
+            width: min(20rem, calc(100vw - 2rem));
+            box-shadow: 0 1.25rem 2.5rem color-mix(in srgb, var(--text-main) 12%, transparent);
+            transform: translateY(-0.25rem);
+            transition:
+                opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                transform 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                visibility 0s linear 0.2s;
+        }
+        .menu:before {
+            position: absolute;
+            top: 0.75rem;
+            right: 0.75rem;
+            left: 0.75rem;
+            height: 1px;
+            content: '';
+            background: linear-gradient(90deg, var(--accent-warm), var(--accent-cool));
+            opacity: 0.8;
         }
         .menu.is-visible {
             @apply visible opacity-100;
-            transition: opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1) 0.2s;
+            transform: translateY(0);
+            transition:
+                opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                visibility 0s;
         }
         .menu-toggle-icon {
             transition: width 0.1s cubic-bezier(0.4, 0, 0.2, 1) 0.3s;
@@ -60,11 +80,18 @@ const navLinks = siteConfig.headerNavLinks ?? [];
             @apply w-0;
             transition: width 0.1s cubic-bezier(0.4, 0, 0.2, 1);
         }
+        .menu-toggle.is-active .menu-toggle-icon:before {
+            background: var(--accent-warm);
+        }
+        .menu-toggle.is-active .menu-toggle-icon:after {
+            background: var(--accent-cool);
+        }
         .menu-toggle-icon:before,
         .menu-toggle-icon:after {
             @apply absolute top-0 left-1/2 h-px w-6 origin-center -translate-x-1/2 bg-current;
             content: '';
             transition:
+                background-color 0.18s ease,
                 rotate 0.2s cubic-bezier(0.4, 0, 0.2, 1),
                 margin 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.2s;
         }
@@ -87,6 +114,87 @@ const navLinks = siteConfig.headerNavLinks ?? [];
         .menu-toggle.is-active .menu-toggle-icon:after {
             @apply -rotate-45;
         }
+
+        .menu .nav-link {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.625rem;
+            padding-block: 0.125rem;
+            text-decoration-thickness: 1px;
+        }
+
+        .menu .nav-link:before {
+            width: 0.45rem;
+            height: 0.45rem;
+            content: '';
+            border: 1px solid currentColor;
+            border-radius: 999px;
+            opacity: 0.45;
+            transition:
+                background-color 0.18s ease,
+                border-color 0.18s ease,
+                opacity 0.18s ease,
+                transform 0.18s ease;
+        }
+
+        .menu .nav-link:nth-child(odd):before,
+        .menu li:nth-child(odd) .nav-link:before {
+            border-color: var(--accent-warm);
+        }
+
+        .menu li:nth-child(even) .nav-link:before {
+            border-color: var(--accent-cool);
+        }
+
+        .menu .nav-link:hover:before,
+        .menu .nav-link:focus-visible:before {
+            opacity: 1;
+            transform: scale(1.15);
+        }
+
+        .menu li:nth-child(odd) .nav-link:hover:before,
+        .menu li:nth-child(odd) .nav-link:focus-visible:before {
+            background: var(--accent-warm);
+        }
+
+        .menu li:nth-child(even) .nav-link:hover:before,
+        .menu li:nth-child(even) .nav-link:focus-visible:before {
+            background: var(--accent-cool);
+        }
+
+        .menu .nav-link.is-active {
+            text-decoration-color: var(--accent-cool);
+        }
+
+        .menu .nav-link.is-active:before {
+            background: linear-gradient(135deg, var(--accent-warm), var(--accent-cool));
+            border-color: transparent;
+            opacity: 1;
+            transform: scale(1.2);
+        }
+    }
+
+    .menu-toggle:focus-visible,
+    .nav-link:focus-visible {
+        outline: 2px solid var(--accent-cool);
+        outline-offset: 0.25rem;
+    }
+
+    .nav-link {
+        text-decoration-color: currentColor;
+        transition:
+            color 0.18s ease,
+            text-decoration-color 0.18s ease;
+    }
+
+    .nav-link:hover,
+    .nav-link:focus-visible {
+        text-decoration-color: var(--accent-warm);
+    }
+
+    .nav-link.is-active {
+        text-decoration-color: var(--accent-cool);
     }
 </style>
 
@@ -94,14 +202,69 @@ const navLinks = siteConfig.headerNavLinks ?? [];
     function menuToggle() {
         const menu = document.querySelector('.menu');
         const menuToggleBtn = document.querySelector('.menu-toggle');
-        menuToggleBtn?.addEventListener('click', () => {
-            const isMenuExpanded = menuToggleBtn.getAttribute('aria-expanded') === 'true';
-            menuToggleBtn.classList.toggle('is-active');
-            menuToggleBtn.setAttribute('aria-expanded', isMenuExpanded ? 'false' : 'true');
-            menuToggleBtn.setAttribute('aria-label', isMenuExpanded ? 'Abrir menú' : 'Cerrar menú');
-            menu?.classList.toggle('is-visible');
+        const menuLinks = Array.from(menu?.querySelectorAll('a') ?? []);
+        if (!menu || !menuToggleBtn) return;
+
+        function isOpen() {
+            return menuToggleBtn.getAttribute('aria-expanded') === 'true';
+        }
+
+        function openMenu() {
+            menuToggleBtn.classList.add('is-active');
+            menuToggleBtn.setAttribute('aria-expanded', 'true');
+            menuToggleBtn.setAttribute('aria-label', 'Cerrar menú');
+            menu.classList.add('is-visible');
+            menuLinks[0]?.focus();
+        }
+
+        function closeMenu({ restoreFocus = false } = {}) {
+            menuToggleBtn.classList.remove('is-active');
+            menuToggleBtn.setAttribute('aria-expanded', 'false');
+            menuToggleBtn.setAttribute('aria-label', 'Abrir menú');
+            menu.classList.remove('is-visible');
+            if (restoreFocus) menuToggleBtn.focus();
+        }
+
+        menuToggleBtn.addEventListener('click', () => {
+            if (isOpen()) {
+                closeMenu();
+            } else {
+                openMenu();
+            }
+        });
+
+        menu.addEventListener('click', (event) => {
+            const target = event.target;
+            if (target instanceof Element && target.closest('a')) closeMenu();
+        });
+
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape' && isOpen()) {
+                closeMenu({ restoreFocus: true });
+            }
+
+            if (event.key !== 'Tab' || !isOpen() || menuLinks.length === 0) return;
+
+            const firstLink = menuLinks[0];
+            const lastLink = menuLinks[menuLinks.length - 1];
+            if (event.shiftKey && document.activeElement === firstLink) {
+                event.preventDefault();
+                lastLink.focus();
+            } else if (!event.shiftKey && document.activeElement === lastLink) {
+                event.preventDefault();
+                firstLink.focus();
+            }
+        });
+
+        document.addEventListener('click', (event) => {
+            const target = event.target;
+            if (!(target instanceof Node) || !isOpen()) return;
+            if (!menu.contains(target) && !menuToggleBtn.contains(target)) closeMenu();
+        });
+
+        window.addEventListener('resize', () => {
+            if (window.matchMedia('(min-width: 768px)').matches && isOpen()) closeMenu();
         });
     }
     menuToggle();
-    document.addEventListener('astro:after-swap', menuToggle);
 </script>
