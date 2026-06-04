@@ -80,18 +80,11 @@ const navLinks = siteConfig.headerNavLinks ?? [];
             @apply w-0;
             transition: width 0.1s cubic-bezier(0.4, 0, 0.2, 1);
         }
-        .menu-toggle.is-active .menu-toggle-icon:before {
-            background: var(--accent-warm);
-        }
-        .menu-toggle.is-active .menu-toggle-icon:after {
-            background: var(--accent-cool);
-        }
         .menu-toggle-icon:before,
         .menu-toggle-icon:after {
             @apply absolute top-0 left-1/2 h-px w-6 origin-center -translate-x-1/2 bg-current;
             content: '';
             transition:
-                background-color 0.18s ease,
                 rotate 0.2s cubic-bezier(0.4, 0, 0.2, 1),
                 margin 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0.2s;
         }
@@ -113,65 +106,6 @@ const navLinks = siteConfig.headerNavLinks ?? [];
         }
         .menu-toggle.is-active .menu-toggle-icon:after {
             @apply -rotate-45;
-        }
-
-        .menu .nav-link {
-            position: relative;
-            display: inline-flex;
-            align-items: center;
-            gap: 0.625rem;
-            padding-block: 0.125rem;
-            text-decoration-thickness: 1px;
-        }
-
-        .menu .nav-link:before {
-            width: 0.45rem;
-            height: 0.45rem;
-            content: '';
-            border: 1px solid currentColor;
-            border-radius: 999px;
-            opacity: 0.45;
-            transition:
-                background-color 0.18s ease,
-                border-color 0.18s ease,
-                opacity 0.18s ease,
-                transform 0.18s ease;
-        }
-
-        .menu .nav-link:nth-child(odd):before,
-        .menu li:nth-child(odd) .nav-link:before {
-            border-color: var(--accent-warm);
-        }
-
-        .menu li:nth-child(even) .nav-link:before {
-            border-color: var(--accent-cool);
-        }
-
-        .menu .nav-link:hover:before,
-        .menu .nav-link:focus-visible:before {
-            opacity: 1;
-            transform: scale(1.15);
-        }
-
-        .menu li:nth-child(odd) .nav-link:hover:before,
-        .menu li:nth-child(odd) .nav-link:focus-visible:before {
-            background: var(--accent-warm);
-        }
-
-        .menu li:nth-child(even) .nav-link:hover:before,
-        .menu li:nth-child(even) .nav-link:focus-visible:before {
-            background: var(--accent-cool);
-        }
-
-        .menu .nav-link.is-active {
-            text-decoration-color: var(--accent-cool);
-        }
-
-        .menu .nav-link.is-active:before {
-            background: linear-gradient(135deg, var(--accent-warm), var(--accent-cool));
-            border-color: transparent;
-            opacity: 1;
-            transform: scale(1.2);
         }
     }
 
