@@ -9,6 +9,7 @@ seo:
 ---
 
 Soy **Joaquín Medina**, psicólogo especializado en envejecimiento saludable, intervención psicosocial y proyectos comunitarios basados en las artes escénicas, la creación colectiva y la producción audiovisual.
+![Foto de Portfolio de Joaquin Medina](../../assets/images/about.webp)
 
 Mi trayectoria combina formación en psicología, experiencia en proyectos artísticos y audiovisuales, trabajo con personas mayores, discapacidad e intervención comunitaria. Esa mezcla ha terminado convirtiéndose en mi lugar natural de trabajo: diseñar procesos donde lo psicológico, lo social y lo creativo puedan encontrarse de forma rigurosa y humana.
 
