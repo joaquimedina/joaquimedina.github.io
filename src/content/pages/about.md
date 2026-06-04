@@ -67,6 +67,20 @@ Cuando está bien planteado, puede convertirse en una forma de memoria compartid
 
 ---
 
+## Etapa Vladimir Tzekov
+
+Durante aproximadamente cuatro años formé parte del universo creativo de **Vladimir Tzekov**, un proyecto escénico liderado por **Manuel Bonillo** que integraba dos dimensiones complementarias: una compañía teatral y un laboratorio intensivo de artes escénicas.
+
+Como miembro de la **compañía teatral Vladimir Tzekov**, participé como intérprete en montajes como _Rapsodia nº2 · La vida es sueño_, _Sonata Este_, _Alicia en el País de las Maravillas_ y _Misa de Réquiem nº8 · La Peste_.
+
+Como miembro del **Laboratorio de Acción Escénica Vladimir Tzekov**, participé como alumno, ayudante de producción de espectáculos, colaborador en procesos de creación colectiva y responsable de tareas audiovisuales vinculadas a la grabación, edición y documentación de obras y procesos escénicos.
+
+Esta etapa fue decisiva para mi formación artística y metodológica. Me permitió trabajar desde dentro con cuerpo, ritmo, presencia, estructura musical, creación colectiva, producción escénica y memoria audiovisual.
+
+Muchas de las ideas que hoy atraviesan mi trabajo —la importancia del grupo, la composición escénica, el valor del cuerpo, la relación entre escena y cámara, y la documentación ética de procesos— tienen parte de su origen en esa experiencia.
+
+---
+
 ## Una posición profesional
 
 Intento trabajar desde una combinación de rigor, sensibilidad y honestidad.
