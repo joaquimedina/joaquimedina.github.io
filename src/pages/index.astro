@@ -6,6 +6,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const heroEntry = await getEntry('home', 'hero');
 const bodyEntry = await getEntry('home', 'body');
+if (!heroEntry || !bodyEntry) {
+    throw new Error('Missing home content entries.');
+}
 const { Content: HeroContent } = await render(heroEntry);
 const { Content: BodyContent } = await render(bodyEntry);
 ---

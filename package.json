@@ -14,7 +14,8 @@
         "preview": "astro preview",
         "format": "prettier --write .",
         "format:check": "prettier --check .",
-        "verify": "npm run format:check && npm run build",
+        "check": "astro check",
+        "verify": "npm run format:check && npm run check && npm run build",
         "astro": "astro"
     },
     "dependencies": {
@@ -27,9 +28,11 @@
         "tailwindcss": "^4.3.0"
     },
     "devDependencies": {
+        "@astrojs/check": "^0.9.9",
         "@tailwindcss/typography": "^0.5.19",
         "prettier": "^3.6.2",
         "prettier-plugin-astro": "^0.14.1",
-        "prettier-plugin-tailwindcss": "^0.7.1"
+        "prettier-plugin-tailwindcss": "^0.7.1",
+        "typescript": "^6.0.3"
     }
 }

@@ -37,6 +37,9 @@ jobs:
             - name: Check formatting
               run: npm run format:check
 
+            - name: Check Astro types
+              run: npm run check
+
             - name: Configure GitHub Pages
               id: pages
               uses: actions/configure-pages@v5
