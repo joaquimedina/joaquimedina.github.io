@@ -5,11 +5,12 @@
 
 :root {
     --text-main: #171717;
-    --bg-main: #e9ecef;
+    --bg-main: #adb5bd;
     --bg-muted: #eae9e1;
     --border-main: #171717;
     --accent-warm: #f05b51;
     --accent-cool: #64b6aa;
+    --project-title: #495057;
 }
 html.dark {
     --text-main: #f2f1ec;
@@ -18,6 +19,7 @@ html.dark {
     --border-main: #f2f1ec;
     --accent-warm: #f05b51;
     --accent-cool: #64b6aa;
+    --project-title: #ced4da;
 }
 
 /* Cyan */
@@ -53,8 +55,8 @@ html.dark {
 */
 
 @theme inline {
-    --font-sans: 'Inter Variable', sans-serif;
-    --font-serif: 'Newsreader Variable', serif;
+    --font-sans: 'Work Sans Variable', sans-serif;
+    --font-serif: 'Atkinson Hyperlegible', sans-serif;
     --text-color-main: var(--text-main);
     --background-color-main: var(--bg-main);
     --background-color-muted: var(--bg-muted);
@@ -107,6 +109,6 @@ html.dark {
     }
 
     .project-preview-title {
-        color: #15aabf;
+        color: var(--project-title);
     }
 }

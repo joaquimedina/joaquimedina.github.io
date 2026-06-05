@@ -1,7 +1,10 @@
 ---
-import interWoff2 from '@fontsource-variable/inter/files/inter-latin-wght-normal.woff2?url';
-import newsreaderItalicWoff2 from '@fontsource-variable/newsreader/files/newsreader-latin-wght-italic.woff2?url';
-import newsreaderWoff2 from '@fontsource-variable/newsreader/files/newsreader-latin-wght-normal.woff2?url';
+import atkinsonBoldItalicWoff2 from '@fontsource/atkinson-hyperlegible/files/atkinson-hyperlegible-latin-ext-700-italic.woff2?url';
+import atkinsonBoldWoff2 from '@fontsource/atkinson-hyperlegible/files/atkinson-hyperlegible-latin-ext-700-normal.woff2?url';
+import atkinsonItalicWoff2 from '@fontsource/atkinson-hyperlegible/files/atkinson-hyperlegible-latin-ext-400-italic.woff2?url';
+import atkinsonWoff2 from '@fontsource/atkinson-hyperlegible/files/atkinson-hyperlegible-latin-ext-400-normal.woff2?url';
+import workSansItalicWoff2 from '@fontsource-variable/work-sans/files/work-sans-latin-ext-wght-italic.woff2?url';
+import workSansWoff2 from '@fontsource-variable/work-sans/files/work-sans-latin-ext-wght-normal.woff2?url';
 import { getImage } from 'astro:assets';
 import siteConfig from '../data/site-config';
 import type { ImageInput } from '../types';
@@ -77,30 +80,52 @@ function formatCanonicalURL(url: string | URL) {
 <meta name="generator" content={Astro.generator} />
 
 <!-- Fonts -->
-<link rel="preload" as="font" type="font/woff2" href={interWoff2} crossorigin="anonymous" />
-<link rel="preload" as="font" type="font/woff2" href={newsreaderWoff2} crossorigin="anonymous" />
-<link rel="preload" as="font" type="font/woff2" href={newsreaderItalicWoff2} crossorigin="anonymous" />
-<style is:inline define:vars={{ interWoff2, newsreaderWoff2, newsreaderItalicWoff2 }}>
+<link rel="preload" as="font" type="font/woff2" href={atkinsonWoff2} crossorigin="anonymous" />
+<link rel="preload" as="font" type="font/woff2" href={atkinsonBoldWoff2} crossorigin="anonymous" />
+<link rel="preload" as="font" type="font/woff2" href={workSansWoff2} crossorigin="anonymous" />
+<link rel="preload" as="font" type="font/woff2" href={workSansItalicWoff2} crossorigin="anonymous" />
+<style is:inline define:vars={{ atkinsonWoff2, atkinsonItalicWoff2, atkinsonBoldWoff2, atkinsonBoldItalicWoff2, workSansWoff2, workSansItalicWoff2 }}>
     @font-face {
-        font-family: 'Inter Variable';
+        font-family: 'Atkinson Hyperlegible';
+        font-style: normal;
+        font-display: swap;
+        font-weight: 400;
+        src: url(var(--atkinsonWoff2)) format('woff2');
+    }
+    @font-face {
+        font-family: 'Atkinson Hyperlegible';
+        font-style: italic;
+        font-display: swap;
+        font-weight: 400;
+        src: url(var(--atkinsonItalicWoff2)) format('woff2');
+    }
+    @font-face {
+        font-family: 'Atkinson Hyperlegible';
+        font-style: normal;
+        font-display: swap;
+        font-weight: 700;
+        src: url(var(--atkinsonBoldWoff2)) format('woff2');
+    }
+    @font-face {
+        font-family: 'Atkinson Hyperlegible';
+        font-style: italic;
+        font-display: swap;
+        font-weight: 700;
+        src: url(var(--atkinsonBoldItalicWoff2)) format('woff2');
+    }
+    @font-face {
+        font-family: 'Work Sans Variable';
         font-style: normal;
         font-display: swap;
         font-weight: 100 900;
-        src: url(var(--interWoff2)) format('woff2-variations');
+        src: url(var(--workSansWoff2)) format('woff2-variations');
     }
     @font-face {
-        font-family: 'Newsreader Variable';
-        font-style: normal;
-        font-display: swap;
-        font-weight: 200 800;
-        src: url(var(--newsreaderWoff2)) format('woff2-variations');
-    }
-    @font-face {
-        font-family: 'Newsreader Variable';
+        font-family: 'Work Sans Variable';
         font-style: italic;
         font-display: swap;
-        font-weight: 200 800;
-        src: url(var(--newsreaderItalicWoff2)) format('woff2-variations');
+        font-weight: 100 900;
+        src: url(var(--workSansItalicWoff2)) format('woff2-variations');
     }
 </style>
 
@@ -114,7 +139,7 @@ function formatCanonicalURL(url: string | URL) {
 <meta name="author" content={siteConfig.author} />
 <meta name="robots" content="index, follow" />
 {keywords && <meta name="keywords" content={keywords} />}
-<meta name="theme-color" content="#e9ecef" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#adb5bd" media="(prefers-color-scheme: light)" />
 <meta name="theme-color" content="#171717" media="(prefers-color-scheme: dark)" />
 
 <!-- Open Graph / Facebook -->
