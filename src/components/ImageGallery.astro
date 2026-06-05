@@ -20,7 +20,7 @@ const { images } = Astro.props;
             {images.map((image) => (
                 <figure class="group">
                     <a
-                        class="border-main block overflow-hidden border border-dashed focus:outline-2 focus:outline-offset-4 focus:outline-[var(--accent-cool)]"
+                        class="border-main block overflow-hidden border bg-transparent p-2 focus:outline-2 focus:outline-offset-4 focus:outline-[var(--accent-cool)] sm:p-3"
                         href={image.src.src}
                         target="_blank"
                         rel="noopener noreferrer"

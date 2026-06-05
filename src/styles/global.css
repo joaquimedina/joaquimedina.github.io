@@ -104,7 +104,12 @@ html.dark {
         @apply border-none pl-0 font-serif text-[1.375em] leading-snug font-normal italic sm:text-[1.66667em];
     }
 
-    .content-about img {
+    .content-about img,
+    .content-escena img {
+        @apply border-main mx-auto my-10 w-full max-w-2xl border bg-transparent p-2 sm:my-12 sm:p-3;
+    }
+
+    .content-project > p > img {
         @apply border-main mx-auto my-10 w-full max-w-2xl border bg-transparent p-2 sm:my-12 sm:p-3;
     }
 
