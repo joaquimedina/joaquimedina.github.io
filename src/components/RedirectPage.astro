@@ -5,6 +5,7 @@ type Props = {
 };
 
 const { title = 'Redirigiendo', to } = Astro.props;
+const canonicalHref = new URL(to, Astro.site).toString();
 ---
 
 <!doctype html>
@@ -14,7 +15,7 @@ const { title = 'Redirigiendo', to } = Astro.props;
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="noindex" />
         <meta http-equiv="refresh" content={`0; url=${to}`} />
-        <link rel="canonical" href={to} />
+        <link rel="canonical" href={canonicalHref} />
         <title>{title}</title>
     </head>
     <body>

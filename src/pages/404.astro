@@ -1,0 +1,19 @@
+---
+import Button from '../components/Button.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Página no encontrada" description="La página solicitada no existe o se ha movido." showHeader={false}>
+    <section class="my-8 flex min-h-[48vh] flex-col justify-center sm:my-16">
+        <p class="mb-4 font-serif text-sm text-[var(--accent-warm)] italic">Error 404</p>
+        <h1 class="mb-8 font-serif text-4xl leading-tight font-medium sm:text-6xl sm:leading-tight">Esta página se ha ido de escena.</h1>
+        <div class="prose sm:prose-lg max-w-none">
+            <p>Puede que el enlace haya cambiado, que el proyecto se haya movido o que la página esté haciendo una pausa dramática más larga de lo previsto.</p>
+        </div>
+        <div class="mt-10 flex flex-wrap gap-3">
+            <Button href="/">Volver al inicio</Button>
+            <Button href="/proyectos/">Ver proyectos</Button>
+            <Button href="/contacto/">Contacto</Button>
+        </div>
+    </section>
+</BaseLayout>
