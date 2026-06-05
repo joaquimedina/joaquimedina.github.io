@@ -71,7 +71,7 @@ const siteConfig: SiteConfig = {
             alt: 'Joaquín Medina en un entorno de trabajo creativo'
         }
     },
-    projectsPerPage: 6
+    projectsPerPage: 8
 };
 
 export default siteConfig;
