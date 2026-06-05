@@ -128,7 +128,7 @@ Compañía en Escena se apoya en la evidencia sobre artes participativas, teatro
 
 La metodología incorpora criterios de seguridad física, seguridad psicológica, consentimiento informado, documentación audiovisual responsable y evaluación prudente.
 
-El proceso puede incluir registro audiovisual y una pieza final de memoria, siempre desde el respeto a la privacidad, la dignidad y los derechos de imagen de las personas participantes.
+El proceso puede incluir registro audiovisual y una pieza audiovisual final de la obra, siempre desde el respeto a la privacidad, la dignidad y los derechos de imagen de las personas participantes.
 
 No todo lo vivido debe convertirse en archivo.
 
