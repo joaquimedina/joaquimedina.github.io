@@ -10,7 +10,7 @@
     --border-main: #171717;
     --accent-warm: #f05b51;
     --accent-cool: #64b6aa;
-    --project-title: #495057;
+    --project-title: var(--accent-warm);
 }
 html.dark {
     --text-main: #f2f1ec;
@@ -19,7 +19,7 @@ html.dark {
     --border-main: #f2f1ec;
     --accent-warm: #f05b51;
     --accent-cool: #64b6aa;
-    --project-title: #ced4da;
+    --project-title: var(--accent-cool);
 }
 
 /* Cyan */
