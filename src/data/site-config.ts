@@ -42,25 +42,25 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Proyectos',
-            href: '/projects'
+            href: '/proyectos'
         },
         {
             text: 'Contacto',
-            href: '/contact'
+            href: '/contacto'
         }
     ],
     footerNavLinks: [
         {
             text: 'Sobre mí',
-            href: '/about'
+            href: '/joaquimedina'
         },
         {
             text: 'Contacto',
-            href: '/contact'
+            href: '/contacto'
         },
         {
-            text: 'Términos',
-            href: '/terms'
+            text: 'Terminos',
+            href: '/terminos'
         }
     ],
     socialLinks: [],

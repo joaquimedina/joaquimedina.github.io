@@ -44,7 +44,7 @@ Otros proceden de experiencias escénicas, audiovisuales o formativas.
 
 Todos comparten una misma preocupación: cómo crear espacios donde las personas puedan participar, expresarse, vincularse y dejar memoria de lo vivido.
 
-[Ver proyectos](/projects/)
+[Ver proyectos](/proyectos/)
 
 ---
 

@@ -5,8 +5,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 export async function getStaticPaths() {
     const pages = await getCollection('pages');
     return pages.map((page) => {
+        const publicId =
+            {
+                about: 'joaquimedina',
+                contact: 'contacto',
+                terms: 'terminos'
+            }[page.id] ?? page.id;
+
         return {
-            params: { id: page.id },
+            params: { id: publicId },
             props: { page }
         };
     });

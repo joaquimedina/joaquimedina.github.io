@@ -1,0 +1,91 @@
+---
+import type { GetStaticPathsOptions, Page } from 'astro';
+import { getCollection } from 'astro:content';
+import Pagination from '../../components/Pagination.astro';
+import ProjectPreview from '../../components/ProjectPreview.astro';
+import siteConfig from '../../data/site-config';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { sortItemsByDateDesc } from '../../utils/data-utils';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+    const projects = (await getCollection('projects')).sort(sortItemsByDateDesc);
+    return paginate(projects, { pageSize: siteConfig.projectsPerPage || 6 });
+}
+
+type Props = { page: Page };
+
+const { page } = Astro.props;
+const portfolio = page.data;
+---
+
+<BaseLayout
+    title="Proyectos"
+    description="Proyectos de Joaquín Medina en intervención psicosocial, artes escénicas aplicadas, participación comunitaria y producción audiovisual."
+    showHeader={false}
+>
+    <h1 class="mb-12 font-serif text-2xl leading-tight italic sm:mb-16 sm:text-4xl">Proyectos</h1>
+    {
+        page.currentPage === 1 && (
+            <section class="prose sm:prose-lg mb-16 max-w-none sm:mb-24 [&>*:first-child]:mt-0">
+                <p>
+                    Esta sección reúne una selección de trabajos vinculados a la intervención psicosocial, las artes escénicas, la creación audiovisual, la
+                    participación comunitaria y la memoria de procesos.
+                </p>
+                <p>Algunos proyectos nacen en contextos culturales o escénicos.</p>
+                <p>Otros se desarrollan en colaboración con instituciones, asociaciones, ayuntamientos o centros de atención social.</p>
+                <p>
+                    En todos ellos aparece una misma línea de fondo: utilizar la creación como una forma de participación, vínculo, representación y
+                    reconocimiento.
+                </p>
+                <p>No me interesa la imagen como simple escaparate.</p>
+                <p>
+                    La imagen tiene más sentido cuando permite contar un proceso, conservar una experiencia, hacer visible una comunidad o abrir un espacio
+                    donde las personas puedan aparecer desde un lugar más activo y digno.
+                </p>
+                <hr />
+            </section>
+        )
+    }
+    {portfolio.map((project) => <ProjectPreview project={project} class="mb-10 sm:mb-12" />)}
+    <Pagination page={page} class="mt-12 mb-16 sm:mt-16 sm:mb-24" />
+    {
+        page.currentPage === 1 && (
+            <section class="prose sm:prose-lg mt-16 max-w-none sm:mt-24 [&>*:first-child]:mt-0">
+                <hr />
+                <h2>Líneas presentes en los proyectos</h2>
+                <ul>
+                    <li>Intervención psicosocial y comunitaria.</li>
+                    <li>Artes escénicas aplicadas.</li>
+                    <li>Creación colectiva.</li>
+                    <li>Envejecimiento, discapacidad e inclusión social.</li>
+                    <li>Producción y realización audiovisual.</li>
+                    <li>Memoria audiovisual de procesos.</li>
+                    <li>Participación ciudadana y cultura comunitaria.</li>
+                    <li>Documentación de prácticas artísticas y escénicas.</li>
+                </ul>
+                <hr />
+                <h2>Etapa Vladimir Tzekov</h2>
+                <p>
+                    Una parte importante de mi trayectoria artística se desarrolló dentro del entorno creativo de <strong>Vladimir Tzekov</strong>, proyecto
+                    escénico liderado por <strong>Manuel Bonillo</strong> y vinculado a la escena contemporánea, la experimentación teatral, la creación
+                    colectiva y el uso de estructuras musicales como herramientas de composición.
+                </p>
+                <p>Conviene distinguir dos dimensiones de esa etapa.</p>
+                <p>
+                    Por un lado, la <strong>compañía teatral Vladimir Tzekov</strong>, en la que participé como intérprete en montajes como{' '}
+                    <em>Rapsodia nº2 · La vida es sueño</em>,<em>Sonata Este</em>, <em>Alicia en el País de las Maravillas</em> y{' '}
+                    <em>Misa de Réquiem nº8 · La Peste</em>.
+                </p>
+                <p>
+                    Por otro, el <strong>Laboratorio de Acción Escénica Vladimir Tzekov</strong>, una academia intensiva de artes escénicas en la que participé
+                    como alumno, ayudante de producción, colaborador en procesos de creación colectiva y responsable de tareas audiovisuales vinculadas a
+                    grabación, edición y documentación.
+                </p>
+                <p>
+                    Los proyectos de esta etapa ayudan a comprender mi relación actual con el cuerpo, la escena, la creación colectiva, la estructura musical y
+                    la memoria audiovisual de los procesos artísticos.
+                </p>
+            </section>
+        )
+    }
+</BaseLayout>
