@@ -5,21 +5,23 @@
 
 :root {
     --text-main: #171717;
-    --bg-main: #adb5bd;
+    --bg-main: #eeeeef;
     --bg-muted: #eae9e1;
     --border-main: #171717;
-    --accent-warm: #f05b51;
-    --accent-cool: #64b6aa;
-    --project-title: #8f3131;
+    --accent-warm: #a03123;
+    --accent-cool: #00a8db;
+    --project-title: var(--accent-cool);
+    --pagination-text: #171717;
 }
 html.dark {
     --text-main: #f2f1ec;
     --bg-main: #171717;
     --bg-muted: #242424;
     --border-main: #f2f1ec;
-    --accent-warm: #f05b51;
-    --accent-cool: #64b6aa;
+    --accent-warm: #a03123;
+    --accent-cool: #00a8db;
     --project-title: var(--accent-cool);
+    --pagination-text: #eeeeef;
 }
 
 /* Cyan */
