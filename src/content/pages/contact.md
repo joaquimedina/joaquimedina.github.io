@@ -8,7 +8,7 @@ seo:
     alt: 'Logotipo de Joaquín Medina'
 ---
 
-![Logotipo de Joaquín Medina](../../assets/images/logo-joaquin-medina-contacto.png)
+![Logotipo de Joaquín Medina](../../assets/images/logo-joaquin-medina-contacto.svg)
 
 Si quieres proponer una colaboración, consultar un proyecto o hablar sobre posibles líneas de trabajo, puedes escribirme por correo electrónico.
 

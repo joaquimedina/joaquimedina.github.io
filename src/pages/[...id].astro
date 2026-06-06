@@ -31,7 +31,14 @@ const { Content } = await render(page);
         <header class="mb-8">
             <h1 class="font-serif text-3xl leading-tight font-medium sm:text-5xl sm:leading-tight">{title}</h1>
         </header>
-        <div class:list={['prose sm:prose-lg max-w-none', page.id === 'about' && 'content-about', page.id === 'escena' && 'content-escena']}>
+        <div
+            class:list={[
+                'prose sm:prose-lg max-w-none',
+                page.id === 'about' && 'content-about',
+                page.id === 'contact' && 'content-contact',
+                page.id === 'escena' && 'content-escena'
+            ]}
+        >
             <Content />
         </div>
     </article>
