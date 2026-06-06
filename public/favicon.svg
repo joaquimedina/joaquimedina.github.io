@@ -3,18 +3,18 @@
 <svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
     <g id="pieza-coral" transform="matrix(1,0,0,1,-141,-72)">
         <g transform="matrix(1.468896,0,0,1.468896,-94.826042,13.751556)">
-            <path d="M340,310C330,310 322,302 322,292C322,282 330,274 340,274L340,230C340,230 310,230 290,218C270,206 255,188 252,168C249,145 260,124 278,114C296,104 318,108 332,120C340,127 340,138 340,148C340,138 340,127 348,120C348,120 340,127 340,148L200,148C185,148 172,158 168,172C164,186 170,202 182,210C194,218 210,216 220,208C228,202 230,192 228,182L228,310L340,310Z" style="fill:rgb(232,99,90);fill-opacity:0.08;fill-rule:nonzero;stroke:rgb(232,99,90);stroke-width:11px;"/>
+            <path d="M340,310C330,310 322,302 322,292C322,282 330,274 340,274L340,230C340,230 310,230 290,218C270,206 255,188 252,168C249,145 260,124 278,114C296,104 318,108 332,120C340,127 340,138 340,148C340,138 340,127 348,120C348,120 340,127 340,148L200,148C185,148 172,158 168,172C164,186 170,202 182,210C194,218 210,216 220,208C228,202 230,192 228,182L228,310L340,310Z" style="fill:none;fill-rule:nonzero;stroke:rgb(160,49,35);stroke-width:11px;"/>
         </g>
         <g transform="matrix(1.468896,0,0,1.468896,-87.481563,2.00039)">
-            <path d="M252,234C262,218 282,212 298,220C310,226 316,238 312,250" style="fill:none;fill-rule:nonzero;stroke:rgb(232,99,90);stroke-width:8px;stroke-linejoin:miter;"/>
+            <path d="M252,234C262,218 282,212 298,220C310,226 316,238 312,250" style="fill:none;fill-rule:nonzero;stroke:rgb(160,49,35);stroke-width:8px;stroke-linejoin:miter;"/>
         </g>
     </g>
     <g id="pieza-teal" transform="matrix(1,0,0,1,-141,-72)">
         <g transform="matrix(-1.468896,0,0,1.468896,1068.539475,4.938181)">
-            <path d="M338,318L338,310C328,310 320,302 320,292C320,282 328,274 338,274L338,144C338,152 334,158 328,162C318,168 304,166 296,156C288,146 288,130 298,120C308,110 324,108 336,116C346,122 350,134 350,148L442,148L442,188C440,196 432,202 424,200C412,198 404,186 406,174C408,162 418,154 430,156C442,158 452,168 452,182L452,318L338,318Z" style="fill:rgb(91,173,163);fill-opacity:0.1;fill-rule:nonzero;stroke:rgb(91,173,163);stroke-width:12px;"/>
+            <path d="M338,318L338,310C328,310 320,302 320,292C320,282 328,274 338,274L338,144C338,152 334,158 328,162C318,168 304,166 296,156C288,146 288,130 298,120C308,110 324,108 336,116C346,122 350,134 350,148L442,148L442,188C440,196 432,202 424,200C412,198 404,186 406,174C408,162 418,154 430,156C442,158 452,168 452,182L452,318L338,318Z" style="fill:none;fill-rule:nonzero;stroke:rgb(0,168,219);stroke-width:12px;"/>
         </g>
         <g transform="matrix(1.468896,0,0,1.468896,-88.950458,2.00039)">
-            <path d="M368,250C364,238 370,226 382,220C398,212 418,218 428,234" style="fill:none;fill-rule:nonzero;stroke:rgb(91,173,163);stroke-width:8px;stroke-linejoin:miter;"/>
+            <path d="M368,250C364,238 370,226 382,220C398,212 418,218 428,234" style="fill:none;fill-rule:nonzero;stroke:rgb(0,168,219);stroke-width:8px;stroke-linejoin:miter;"/>
         </g>
     </g>
     <g id="pieza-inferior">

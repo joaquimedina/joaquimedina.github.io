@@ -6,7 +6,7 @@
 :root {
     --text-main: #171717;
     --bg-main: #eeeeef;
-    --bg-muted: #eae9e1;
+    --bg-muted: #eeeeef;
     --border-main: #171717;
     --accent-warm: #a03123;
     --accent-cool: #00a8db;
@@ -14,47 +14,15 @@
     --pagination-text: #171717;
 }
 html.dark {
-    --text-main: #f2f1ec;
+    --text-main: #eeeeef;
     --bg-main: #171717;
-    --bg-muted: #242424;
-    --border-main: #f2f1ec;
+    --bg-muted: #171717;
+    --border-main: #eeeeef;
     --accent-warm: #a03123;
     --accent-cool: #00a8db;
     --project-title: var(--accent-cool);
     --pagination-text: #eeeeef;
 }
-
-/* Cyan */
-/*
-:root {
-    --text-main: #162a2b;
-    --bg-main: #d6e0e2;
-    --bg-muted: #ccd8db;
-    --border-main: #162a2b;
-}
-html.dark {
-    --text-main: #d6e0e2;
-    --bg-main: #162a2b;
-    --bg-muted: #1c3537;
-    --border-main: #d6e0e2;
-}
-*/
-
-/* Green */
-/*
-:root {
-    --text-main: #3a4238;
-    --bg-main: #f3efe6;
-    --bg-muted: #eee9dc;
-    --border-main: #3a4238;
-}
-html.dark {
-    --text-main: #f3efe6;
-    --bg-main: #5e6c5b;
-    --bg-muted: #596756;
-    --border-main: #f3efe6;
-}
-*/
 
 @theme inline {
     --font-sans: 'Work Sans Variable', sans-serif;
