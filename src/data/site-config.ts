@@ -26,10 +26,10 @@ const siteConfig: SiteConfig = {
     title: 'Joaquín Medina',
     subtitle: 'Envejecimiento Activo y Saludable',
     description:
-        'Portfolio profesional de Joaquín Medina sobre psicología, intervención psicosocial, envejecimiento saludable, artes escénicas y creación audiovisual.',
+        'Portfolio profesional de Joaquín Medina sobre intervención psicosocial, envejecimiento saludable, artes escénicas y creación audiovisual.',
     image: {
         src: '/portfolio-preview.jpg',
-        alt: 'Portfolio de Joaquín Medina sobre psicología, intervención social, artes escénicas y creación audiovisual'
+        alt: 'Portfolio de Joaquín Medina sobre intervención psicosocial, artes escénicas y creación audiovisual'
     },
     headerNavLinks: [
         {
