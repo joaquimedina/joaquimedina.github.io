@@ -28,7 +28,7 @@ const siteConfig: SiteConfig = {
     description:
         'Portfolio profesional de Joaquín Medina sobre intervención psicosocial, envejecimiento saludable, artes escénicas y creación audiovisual.',
     image: {
-        src: '/portfolio-preview.jpg',
+        src: '/portfolio-preview.png',
         alt: 'Portfolio de Joaquín Medina sobre intervención psicosocial, artes escénicas y creación audiovisual'
     },
     headerNavLinks: [
