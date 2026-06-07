@@ -27,6 +27,10 @@ Salvo que se indique expresamente lo contrario, los textos, imágenes, vídeos, 
 
 No se permite la reproducción, distribución, transformación, comunicación pública o uso comercial de los contenidos sin autorización previa y por escrito.
 
+El hecho de que el código fuente de la web pueda estar publicado en un repositorio público no implica autorización para reutilizar los textos, imágenes, vídeos, logotipos, identidad visual, documentación de proyectos o materiales audiovisuales incluidos en este portfolio.
+
+La licencia aplicable al código fuente, si la hubiera, no se extiende a los contenidos personales, profesionales, artísticos o documentales del sitio.
+
 Algunos proyectos pueden incluir materiales desarrollados en colaboración con instituciones, compañías, participantes, entidades públicas o privadas. En esos casos, los derechos pueden estar compartidos o corresponder a sus titulares legítimos.
 
 ---

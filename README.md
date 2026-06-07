@@ -605,10 +605,14 @@ Antes de tocar veinte cosas a la vez, cambia una, verifica, y luego sigue. La we
 
 ## Licencia
 
-El código fuente conserva la licencia indicada en:
+El código fuente de este sitio conserva la licencia indicada en:
 
 ```txt
 LICENSE
 ```
 
-Los textos, imágenes, vídeos, documentación de proyectos y materiales del portfolio pertenecen a Joaquín Medina salvo que se indique lo contrario.
+Esa licencia se aplica al código fuente del proyecto, no a los contenidos personales, profesionales o artísticos incluidos en el portfolio.
+
+Los textos, imágenes, vídeos, logotipos, documentación de proyectos, materiales audiovisuales, identidad visual y demás contenidos del portfolio pertenecen a Joaquín Medina o a sus titulares legítimos, salvo que se indique expresamente lo contrario.
+
+No está permitido reutilizar, reproducir, distribuir, modificar o explotar dichos contenidos sin autorización previa.
