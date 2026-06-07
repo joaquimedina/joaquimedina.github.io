@@ -87,6 +87,10 @@ html.dark {
         @apply border-main mx-auto my-10 w-full max-w-2xl border bg-transparent p-2 sm:my-12 sm:p-3;
     }
 
+    .content-project img[alt='Arte comunitario y participación ciudadana en Alcóntar'] {
+        @apply max-w-full p-0;
+    }
+
     .project-preview-title {
         color: var(--project-title);
     }
