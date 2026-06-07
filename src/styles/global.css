@@ -10,7 +10,8 @@
     --border-main: #171717;
     --accent-warm: #a03123;
     --accent-cool: #00a8db;
-    --project-title: var(--accent-cool);
+    --focus-ring: var(--accent-warm);
+    --project-title: var(--accent-warm);
     --pagination-text: #171717;
 }
 html.dark {
@@ -20,6 +21,7 @@ html.dark {
     --border-main: #eeeeef;
     --accent-warm: #a03123;
     --accent-cool: #00a8db;
+    --focus-ring: var(--accent-cool);
     --project-title: var(--accent-cool);
     --pagination-text: #eeeeef;
 }
@@ -54,6 +56,11 @@ html.dark {
 
     .prose a {
         @apply font-normal underline decoration-dashed decoration-1 underline-offset-2 hover:decoration-solid;
+    }
+
+    :where(a, button, iframe):focus-visible {
+        outline: 2px solid var(--focus-ring);
+        outline-offset: 0.25rem;
     }
 
     .prose hr {
