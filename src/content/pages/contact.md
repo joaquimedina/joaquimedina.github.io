@@ -27,6 +27,4 @@ Si quieres proponer una colaboración, consultar un proyecto o hablar sobre posi
 
 ## Disponibilidad
 
-Responderé en cuanto me sea posible.
-
 Si el mensaje requiere revisar documentación, valorar una propuesta o pensar una posible colaboración, puede que necesite algo más de tiempo para contestar con cuidado.
