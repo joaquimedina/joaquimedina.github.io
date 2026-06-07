@@ -7,24 +7,10 @@ seo:
 
 ![Logotipo de Joaquín Medina](../../assets/images/logo-joaquin-medina-contacto.svg)
 
-Si quieres proponer una colaboración, consultar un proyecto o hablar sobre posibles líneas de trabajo, puedes escribirme por correo electrónico a [joaquimedina@proton.me](mailto:joaquimedina@proton.me)
+Soy Joaquín Medina. Trabajo en el cruce entre la intervención psicosocial, las artes escénicas, la creación colectiva y la memoria audiovisual de procesos comunitarios y artísticos.
 
----
+Puedes escribirme para propuestas de colaboración, proyectos de intervención, acompañamiento de procesos escénicos o comunitarios, documentación audiovisual, formación o cualquier conversación vinculada a los temas que atraviesan este portfolio.
 
-## Puedes escribirme especialmente para cuestiones relacionadas con:
+Correo electrónico:
 
-- proyectos de intervención psicosocial;
-- programas de envejecimiento activo y saludable;
-- colaboración con residencias, centros de día, asociaciones o instituciones;
-- proyectos de artes escénicas aplicadas;
-- creación colectiva y participación comunitaria;
-- propuestas vinculadas a discapacidad e inclusión social;
-- realización audiovisual y documentación de procesos;
-- diseño, revisión o adaptación de programas;
-- formación, talleres o actividades comunitarias.
-
----
-
-## Disponibilidad
-
-Si el mensaje requiere revisar documentación, valorar una propuesta o pensar una posible colaboración, puede que necesite algo más de tiempo para contestar con cuidado.
+[joaquimedina@proton.me](mailto:joaquimedina@proton.me)
