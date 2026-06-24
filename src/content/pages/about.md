@@ -105,4 +105,4 @@ O, dicho de forma menos solemne: hacer cosas con cabeza, con corazón y con el m
 
 ## Currículum Vitae
 
-[ver CV:](/curriculum-vitae-joaquin-medina.pdf)
+[ver currículum:](/curriculum-vitae-joaquin-medina.pdf)
