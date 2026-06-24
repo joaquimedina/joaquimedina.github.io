@@ -100,3 +100,9 @@ Podría resumirlo así:
 > crear procesos sensibles sin volverlos confusos.
 
 O, dicho de forma menos solemne: hacer cosas con cabeza, con corazón y con el menor humo posible.
+
+---
+
+## Currículum Vitae
+
+[ver CV:](/curriculum-vitae-joaquin-medina.pdf)
