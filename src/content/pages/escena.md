@@ -168,6 +168,17 @@ CñE busca medirse sin reducir la experiencia a números, y escuchar sin invadir
 
 ---
 
+## Documentación técnica
+
+CñE cuenta con documentación técnica depositada en Zenodo para facilitar su consulta, citación y revisión por parte de instituciones, equipos profesionales y posibles entidades colaboradoras.
+
+- [Manual Técnico de Compañía en Escena](https://doi.org/10.5281/zenodo.21113265)
+- [Guía de Seguridad Física, Psicológica y Ética Aplicada](https://doi.org/10.5281/zenodo.21113679)
+
+Estos documentos recogen la arquitectura metodológica del programa y los criterios de cuidado, adaptación, consentimiento, privacidad y prevención de riesgos que orientan su implementación piloto.
+
+---
+
 <!--
 ## Estado actual del proyecto
 
