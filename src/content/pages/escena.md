@@ -8,7 +8,7 @@ seo:
     alt: 'Compañía en Escena CñE, programa de intervención psicosocial y artes escénicas'
 ---
 
-## Metodología de creación escénica colectiva, participación comunitaria y envejecimiento
+## Metodología de creación escénica colectiva, participación comunitaria y envejecimiento activo y saludable
 
 ![Compañía en Escena, programa de intervención psicosocial y artes escénicas](../../assets/images/escena-2.webp)
 
@@ -118,7 +118,7 @@ La participación es siempre voluntaria e informada, con una valoración inicial
 
 La seguridad no es un complemento de CñE: es la condición sin la cual la actividad no comienza. Cada sesión integra la prevención física, caídas, sobreesfuerzo y graduación del esfuerzo, un encuadre no terapéutico que avanza por la forma y el símbolo sin extraer intimidad ni forzar la emoción, y un marco ético de consentimiento informado y diferenciado, protección de datos, autoría colectiva y dignidad escénica, sin infantilización y sin convertir la vulnerabilidad en espectáculo.
 
-Ante el riesgo, tres umbrales ordenan la respuesta: adaptar, detener, revisar; y lo que excede el marco de la intervención se contiene y se deriva, en coordinación con la institución. Los criterios completos, con sus consecuencias operativas, están recogidos en la [Guía de Seguridad y Ética Aplicada (G-SEA)](https://doi.org/10.5281/zenodo.21113679), pública y citable.
+Ante el riesgo, tres umbrales ordenan la respuesta: adaptar, detener, revisar; y lo que excede el marco de la intervención se contiene y se deriva, en coordinación con la institución. Los criterios completos, con sus consecuencias operativas, están recogidos en la [Guía de Seguridad y Ética Aplicada](https://doi.org/10.5281/zenodo.21113679), pública y citable.
 
 La seguridad y la ética no son aquí un límite a la creación, sino su condición: lo que permite que la experiencia ocurra y que la dignidad de quien participa quede protegida.
 
@@ -137,7 +137,7 @@ En un diseño piloto sin grupo de control, los resultados se leen como indicios 
 CñE cuenta con documentación técnica depositada en Zenodo para su consulta, citación y revisión por parte de instituciones, equipos profesionales y entidades colaboradoras.
 
 - [Manual Técnico de Compañía en Escena](https://doi.org/10.5281/zenodo.21113265): qué es la metodología y por qué opera; hipótesis, mecanismo, fundamentación y marco de evaluación.
-- [Guía de Seguridad y Ética Aplicada (G-SEA)](https://doi.org/10.5281/zenodo.21113679): el marco con el que, acción por acción, se decide si una propuesta escénica es admisible y cómo hacerla segura sin perder su sentido.
+- [Guía de Seguridad y Ética Aplicada](https://doi.org/10.5281/zenodo.21113679): el marco con el que, acción por acción, se decide si una propuesta escénica es admisible y cómo hacerla segura sin perder su sentido.
 
 ---
 
