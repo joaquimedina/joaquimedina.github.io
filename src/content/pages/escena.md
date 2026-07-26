@@ -132,10 +132,11 @@ En un diseño piloto sin grupo de control, los resultados se leen como indicios 
 
 ---
 
-## Documentación técnica
+## Documentación disponible
 
-CñE cuenta con documentación técnica depositada en Zenodo para su consulta, citación y revisión por parte de instituciones, equipos profesionales y entidades colaboradoras.
+CñE cuenta con documentación de consulta orientada a instituciones, equipos profesionales y entidades interesadas en valorar una posible implementación piloto.
 
+- [Dossier Ejecutivo de Compañía en Escena](/cne-dossier-ejecutivo.pdf): presentación sintética del programa, sus objetivos, condiciones de implementación y encaje institucional.
 - [Manual Técnico de Compañía en Escena](https://doi.org/10.5281/zenodo.21113265): qué es la metodología y por qué opera; hipótesis, mecanismo, fundamentación y marco de evaluación.
 - [Guía de Seguridad y Ética Aplicada](https://doi.org/10.5281/zenodo.21113679): el marco con el que, acción por acción, se decide si una propuesta escénica es admisible y cómo hacerla segura sin perder su sentido.
 
