@@ -108,7 +108,7 @@ CñE está diseñado principalmente para personas mayores, en contextos donde la
 
 No es necesaria experiencia teatral previa. Tampoco competencia verbal: buena parte del trabajo discurre por el gesto, la imagen, el ritmo y la presencia, de modo que pueden incorporarse personas con dificultades de lenguaje o de audición, con deterioro cognitivo leve o moderado, mediante adaptaciones, o que simplemente prefieren no exponerse hablando. Observar se reconoce como una forma válida de participación.
 
-La participación es siempre voluntaria e informada, con una valoración inicial cuya finalidad no es excluir, sino ajustar: identificar qué apoyos y adaptaciones necesita cada persona para participar con seguridad.
+La participación es siempre voluntaria, informada y revocable en cualquier momento sin consecuencia alguna: la retirada, puntual o definitiva, se respeta sin presión. La valoración inicial no tiene como finalidad excluir, sino ajustar: identificar qué apoyos y adaptaciones necesita cada persona para participar con seguridad.
 
 ---
 
@@ -116,7 +116,7 @@ La participación es siempre voluntaria e informada, con una valoración inicial
 
 ## Seguridad, ética y cuidado
 
-La seguridad no es un complemento de CñE: es la condición sin la cual la actividad no comienza. Cada sesión integra la prevención física, caídas, sobreesfuerzo y graduación del esfuerzo, un encuadre no terapéutico que avanza por la forma y el símbolo sin extraer intimidad ni forzar la emoción, y un marco ético de consentimiento informado y diferenciado, protección de datos, autoría colectiva y dignidad escénica, sin infantilización y sin convertir la vulnerabilidad en espectáculo.
+La seguridad no es un complemento de CñE: es la condición sin la cual la actividad no comienza. Cada sesión integra la prevención física, caídas, sobreesfuerzo y graduación del esfuerzo, y el principio de equivalencia escénica: cuando una acción tiene valor escénico pero supone riesgo, se transforma su forma para hacerla segura conservando su función expresiva. En el plano psicológico opera un encuadre no terapéutico que avanza por la forma y el símbolo, sin extraer intimidad ni forzar la emoción. Y en el ético, un marco de consentimiento informado y diferenciado, cada uso se autoriza por separado, de modo que se puede participar sin ceder la imagen, junto con protección de datos, autoría colectiva y dignidad escénica, sin infantilización y sin convertir la vulnerabilidad en espectáculo.
 
 Ante el riesgo, tres umbrales ordenan la respuesta: adaptar, detener, revisar; y lo que excede el marco de la intervención se contiene y se deriva, en coordinación con la institución. Los criterios completos, con sus consecuencias operativas, están recogidos en la [Guía de Seguridad y Ética Aplicada](https://doi.org/10.5281/zenodo.21113679), pública y citable.
 
@@ -134,11 +134,13 @@ En un diseño piloto sin grupo de control, los resultados se leen como indicios 
 
 ## Documentación disponible
 
-CñE cuenta con documentación de consulta orientada a instituciones, equipos profesionales y entidades interesadas en valorar una posible implementación piloto.
+CñE cuenta con documentación de consulta orientada a instituciones, equipos profesionales y entidades interesadas en valorar una implementación piloto.
 
-- [Dossier Ejecutivo de Compañía en Escena](/cne-dossier-ejecutivo.pdf): presentación sintética del programa, sus objetivos, condiciones de implementación y encaje institucional.
+- [Dossier ejecutivo de Compañía en Escena](/cne-dossier-ejecutivo.pdf): presentación sintética del programa; qué aporta a la institución, qué se espera de él, cómo se desarrollan el proceso y una sesión, condiciones del piloto y requisitos.
 - [Manual Técnico de Compañía en Escena](https://doi.org/10.5281/zenodo.21113265): qué es la metodología y por qué opera; hipótesis, mecanismo, fundamentación y marco de evaluación.
 - [Guía de Seguridad y Ética Aplicada](https://doi.org/10.5281/zenodo.21113679): el marco con el que, acción por acción, se decide si una propuesta escénica es admisible y cómo hacerla segura sin perder su sentido.
+
+El dossier es el documento de entrada para una primera valoración. El Manual y la Guía, depositados en Zenodo con DOI, permiten la consulta y la citación técnicas.
 
 ---
 
@@ -153,8 +155,6 @@ Compañía en Escena es un proyecto desarrollado por Joaquín Medina en la inter
 CñE está preparado para iniciar implementaciones piloto en colaboración con instituciones, centros de mayores, residencias, centros de día, ayuntamientos, fundaciones, entidades culturales o proyectos comunitarios.
 
 La colaboración puede orientarse a una primera experiencia piloto, una adaptación contextual del programa o el diseño de una implementación evaluable. El programa requiere una sala adecuada, un calendario estable, una persona de referencia, un grupo de participantes informados y una institución dispuesta a sostener un proceso de varias semanas; la conducción metodológica, la seguridad y la evaluación corresponden a la facilitación.
-
-Las instituciones interesadas pueden solicitar el dossier ejecutivo del programa, con el detalle del piloto, sus condiciones y sus requisitos.
 
 CñE no propone una actividad puntual. Propone acompañar la aparición de una compañía. Y cuando una compañía aparece, aunque sea temporalmente, también aparece otra forma de mirar a quienes la forman: no como usuarios de una actividad, sino como personas capaces de crear, sostener una obra y compartirla con su comunidad.
 
