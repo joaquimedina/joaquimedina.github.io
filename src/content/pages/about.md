@@ -13,7 +13,7 @@ Soy **Joaquín Medina**, psicólogo especializado en envejecimiento saludable, i
 
 Mi trayectoria combina formación en psicología, experiencia en proyectos artísticos y audiovisuales, trabajo con personas mayores, discapacidad e intervención comunitaria. Esa mezcla ha terminado convirtiéndose en mi lugar natural de trabajo: diseñar procesos donde lo psicológico, lo social y lo creativo puedan encontrarse de forma rigurosa y humana.
 
-Me interesan especialmente los proyectos que permiten a las personas recuperar presencia, voz, vínculo y participación. No desde una mirada ingenua, sino desde una convicción profesional: muchas veces el bienestar no aparece sólo en la consulta o en el despacho, sino también en los espacios compartidos donde alguien puede hacer algo significativo con otras personas.
+Me interesan especialmente los proyectos que permiten a las personas recuperar presencia, voz, vínculo y participación. No desde una mirada ingenua, sino desde una convicción profesional: muchas veces el bienestar no aparece solo en la consulta o en el despacho, sino también en los espacios compartidos donde alguien puede hacer algo significativo con otras personas.
 
 ---
 
